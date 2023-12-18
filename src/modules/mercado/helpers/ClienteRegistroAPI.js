@@ -1,4 +1,5 @@
 import axios from "axios";
+import { getApiUrl  } from "../../utils/apiUtil";
 
 //Fachada
 export const registrarUsuario = (bodyUsuario) => {
@@ -8,6 +9,7 @@ export const registrarUsuario = (bodyUsuario) => {
 
 //Consumir
 const registrarUsuarioAPI=(bodyUsuario)=>{
-    const usuario=axios.post(`http://localhost:8080/usuario/registro`,bodyUsuario).then(r=>r.data)
+    const url=getApiUrl("usuario/registro")
+    const usuario=axios.post(url,bodyUsuario).then(r=>r.data)
     console.log(usuario)
 }

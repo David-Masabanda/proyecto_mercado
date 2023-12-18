@@ -1,4 +1,6 @@
 import axios from "axios";
+import { getApiUrl  } from "../../utils/apiUtil";
+
 
 //Fachada
 export const verificarUsuario= async(bodyUsuario)=>{
@@ -7,8 +9,11 @@ export const verificarUsuario= async(bodyUsuario)=>{
 
 //Consumir
 const verificarUsuarioAPI= async (boduUsuario)=>{
-    const token=await axios.post(`http://localhost:8080/auth/authenticate`, boduUsuario).then(r => r.data)
+    const url=getApiUrl("auth/authenticate")
+    const token=await axios.post(url, boduUsuario).then(r => r.data)
+    //Guardar iten en el localStorage
     console.log(token)
+    localStorage.setItem('token',token);
 }
 
 
