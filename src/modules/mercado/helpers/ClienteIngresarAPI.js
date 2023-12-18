@@ -13,7 +13,7 @@ const verificarUsuarioAPI= async (boduUsuario)=>{
     const token=await axios.post(url, boduUsuario).then(r => r.data)
     //Guardar iten en el localStorage
     console.log(token)
-    localStorage.setItem('token',token);
+    localStorage.setItem('token',JSON.stringify(token));
 }
 
 

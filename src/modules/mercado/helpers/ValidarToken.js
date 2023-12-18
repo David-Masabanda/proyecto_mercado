@@ -3,12 +3,12 @@ import { getApiUrl  } from "../../utils/apiUtil";
 
 
 //Fachada
-export const verificarUsuario= async(token)=>{
-    return await verificarUsuarioAPI(token)
+export const validarToken= async(token)=>{
+    return await validarTokenAPI(token)
 }
 
 //Consumir
-const verificarUsuarioAPI= async (token)=>{
+const validarTokenAPI= async (token)=>{
     const url=getApiUrl("auth/validarToken")
-    await axios.post(url, token).then(r => r.data)
+    return await axios.post(url, token).then(r => r.data)
     }
