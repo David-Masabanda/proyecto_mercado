@@ -3,7 +3,7 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 const routes = [
   {
     path: '/',
-    redirect:'/inicio'
+    redirect:'/login'
 
   },
   {
@@ -18,6 +18,10 @@ const routes = [
   {
     path: '/inicio',
     component: () => import( '../modules/mercado/pages/Inicio.vue')
+  },
+  {
+    path: '/guia',
+    component: () => import( '../modules/mercado/pages/Guia.vue')
   }
 ]
 

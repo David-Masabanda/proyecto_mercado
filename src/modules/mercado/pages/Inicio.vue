@@ -4,6 +4,7 @@
     <p>Gracias por visitar la pagina del Mercado Mayorista</p>
     <img src="https://www.barcelo.com/guia-turismo/wp-content/uploads/2021/01/sevilla_mercados_pal.jpg" alt="">
     <router-link to="/login"> Regresar </router-link>
+    <router-link to="/guia"> Nueva Guia </router-link>
 
   </div>
 </template>

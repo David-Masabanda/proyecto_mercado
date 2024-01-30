@@ -1,0 +1,6708 @@
+[
+  {
+    "codigo": "1",
+    "nombre": "AZUAY",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "CUENCA",
+        "parroquias": [
+          {
+            "codigo": "10150",
+            "nombre": "CUENCA"
+          },
+          {
+            "codigo": "10151",
+            "nombre": "BAÑOS"
+          },
+          {
+            "codigo": "10152",
+            "nombre": "CUMBE"
+          },
+          {
+            "codigo": "10153",
+            "nombre": "CHAUCHA"
+          },
+          {
+            "codigo": "10154",
+            "nombre": "CHECA"
+          },
+          {
+            "codigo": "10155",
+            "nombre": "CHIQUINTAD"
+          },
+          {
+            "codigo": "10156",
+            "nombre": "LLACAO"
+          },
+          {
+            "codigo": "10157",
+            "nombre": "MOLLETURO"
+          },
+          {
+            "codigo": "10158",
+            "nombre": "NULTI"
+          },
+          {
+            "codigo": "10159",
+            "nombre": "OCTAVIO CORDERO PALACIOS"
+          },
+          {
+            "codigo": "10160",
+            "nombre": "PACCHA"
+          },
+          {
+            "codigo": "10161",
+            "nombre": "QUINGEO"
+          },
+          {
+            "codigo": "10162",
+            "nombre": "RICAURTE"
+          },
+          {
+            "codigo": "10163",
+            "nombre": "SAN JOAQUÍN"
+          },
+          {
+            "codigo": "10164",
+            "nombre": "SANTA ANA"
+          },
+          {
+            "codigo": "10165",
+            "nombre": "SAYAUSÍ"
+          },
+          {
+            "codigo": "10166",
+            "nombre": "SIDCAY"
+          },
+          {
+            "codigo": "10167",
+            "nombre": "SININCAY"
+          },
+          {
+            "codigo": "10168",
+            "nombre": "TARQUI"
+          },
+          {
+            "codigo": "10169",
+            "nombre": "TURI"
+          },
+          {
+            "codigo": "10170",
+            "nombre": "VALLE"
+          },
+          {
+            "codigo": "10171",
+            "nombre": "VICTORIA DEL PORTETE"
+          },
+          {
+            "codigo": "10101",
+            "nombre": "BELLAVISTA"
+          },
+          {
+            "codigo": "10102",
+            "nombre": "CAÑARIBAMBA"
+          },
+          {
+            "codigo": "10103",
+            "nombre": "EL BATÁN"
+          },
+          {
+            "codigo": "10104",
+            "nombre": "EL SAGRARIO"
+          },
+          {
+            "codigo": "10105",
+            "nombre": "EL VECINO"
+          },
+          {
+            "codigo": "10106",
+            "nombre": "GIL RAMÍREZ DÁVALOS"
+          },
+          {
+            "codigo": "10107",
+            "nombre": "HUAYNACÁPAC"
+          },
+          {
+            "codigo": "10108",
+            "nombre": "MACHÁNGARA"
+          },
+          {
+            "codigo": "10109",
+            "nombre": "MONAY"
+          },
+          {
+            "codigo": "10110",
+            "nombre": "SAN BLAS"
+          },
+          {
+            "codigo": "10111",
+            "nombre": "SAN SEBASTIÁN"
+          },
+          {
+            "codigo": "10112",
+            "nombre": "SUCRE"
+          },
+          {
+            "codigo": "10113",
+            "nombre": "TOTORACOCHA "
+          },
+          {
+            "codigo": "10114",
+            "nombre": "YANUNCAY"
+          },
+          {
+            "codigo": "10115",
+            "nombre": "HERMANO MIGUEL"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "GIRÓN",
+        "parroquias": [
+          {
+            "codigo": "10250",
+            "nombre": "GIRÓN"
+          },
+          {
+            "codigo": "10251",
+            "nombre": "LA ASUNCIÓN"
+          },
+          {
+            "codigo": "10252",
+            "nombre": "SAN GERARDO"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "GUALACEO",
+        "parroquias": [
+          {
+            "codigo": "10350",
+            "nombre": "GUALACEO"
+          },
+          {
+            "codigo": "10352",
+            "nombre": "DANIEL CÓRDOVA TORAL"
+          },
+          {
+            "codigo": "10353",
+            "nombre": "JADÁN"
+          },
+          {
+            "codigo": "10354",
+            "nombre": "MARIANO MORENO"
+          },
+          {
+            "codigo": "10356",
+            "nombre": "REMIGIO CRESPO TORAL"
+          },
+          {
+            "codigo": "10357",
+            "nombre": "SAN JUAN"
+          },
+          {
+            "codigo": "10358",
+            "nombre": "ZHIDMAD"
+          },
+          {
+            "codigo": "10359",
+            "nombre": "LUIS CORDERO VEGA"
+          },
+          {
+            "codigo": "10360",
+            "nombre": "SIMÓN BOLÍVAR"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "NABÓN",
+        "parroquias": [
+          {
+            "codigo": "10450",
+            "nombre": "NABÓN"
+          },
+          {
+            "codigo": "10451",
+            "nombre": "COCHAPATA"
+          },
+          {
+            "codigo": "10452",
+            "nombre": "EL PROGRESO"
+          },
+          {
+            "codigo": "10453",
+            "nombre": "LAS NIEVES"
+          }
+        ]
+      },
+      "5": {
+        "codigo": "5",
+        "nombre": "PAUTE",
+        "parroquias": [
+          {
+            "codigo": "10550",
+            "nombre": "PAUTE"
+          },
+          {
+            "codigo": "10552",
+            "nombre": "BULÁN"
+          },
+          {
+            "codigo": "10553",
+            "nombre": "CHICÁN"
+          },
+          {
+            "codigo": "10554",
+            "nombre": "EL CABO"
+          },
+          {
+            "codigo": "10556",
+            "nombre": "GUARAINAG"
+          },
+          {
+            "codigo": "10559",
+            "nombre": "SAN CRISTÓBAL"
+          },
+          {
+            "codigo": "10561",
+            "nombre": "TOMEBAMBA"
+          },
+          {
+            "codigo": "10562",
+            "nombre": "DUG DUG"
+          }
+        ]
+      },
+      "6": {
+        "codigo": "6",
+        "nombre": "PUCARÁ",
+        "parroquias": [
+          {
+            "codigo": "10650",
+            "nombre": "PUCARÁ"
+          },
+          {
+            "codigo": "10652",
+            "nombre": "SAN RAFAEL DE SHARUG"
+          }
+        ]
+      },
+      "7": {
+        "codigo": "7",
+        "nombre": "SAN FERNANDO",
+        "parroquias": [
+          {
+            "codigo": "10750",
+            "nombre": "SAN FERNANDO"
+          },
+          {
+            "codigo": "10751",
+            "nombre": "CHUMBLÍN"
+          }
+        ]
+      },
+      "8": {
+        "codigo": "8",
+        "nombre": "SANTA ISABEL",
+        "parroquias": [
+          {
+            "codigo": "10850",
+            "nombre": "SANTA ISABEL"
+          },
+          {
+            "codigo": "10851",
+            "nombre": "ABDÓN CALDERÓN"
+          },
+          {
+            "codigo": "10852",
+            "nombre": "EL CARMEN DE PIJILÍ"
+          },
+          {
+            "codigo": "10853",
+            "nombre": "SHAGLLI"
+          },
+          {
+            "codigo": "10854",
+            "nombre": "SAN SALVADOR DE CAÑARIBAMBA"
+          }
+        ]
+      },
+      "9": {
+        "codigo": "9",
+        "nombre": "SÍGSIG",
+        "parroquias": [
+          {
+            "codigo": "10950",
+            "nombre": "SÍGSIG"
+          },
+          {
+            "codigo": "10951",
+            "nombre": "CUCHIL"
+          },
+          {
+            "codigo": "10952",
+            "nombre": "JIMA"
+          },
+          {
+            "codigo": "10953",
+            "nombre": "GÜEL"
+          },
+          {
+            "codigo": "10954",
+            "nombre": "LUDO"
+          },
+          {
+            "codigo": "10955",
+            "nombre": "SAN BARTOLOMÉ"
+          },
+          {
+            "codigo": "10956",
+            "nombre": "SAN JOSÉ DE RARANGA"
+          }
+        ]
+      },
+      "10": {
+        "codigo": "10",
+        "nombre": "OÑA",
+        "parroquias": [
+          {
+            "codigo": "11050",
+            "nombre": "SAN FELIPE DE OÑA"
+          },
+          {
+            "codigo": "11051",
+            "nombre": "SUSUDEL"
+          }
+        ]
+      },
+      "11": {
+        "codigo": "11",
+        "nombre": "CHORDELEG",
+        "parroquias": [
+          {
+            "codigo": "11150",
+            "nombre": "CHORDELEG"
+          },
+          {
+            "codigo": "11151",
+            "nombre": "PRINCIPAL"
+          },
+          {
+            "codigo": "11152",
+            "nombre": "LA UNIÓN"
+          },
+          {
+            "codigo": "11153",
+            "nombre": "LUIS GALARZA ORELLANA"
+          },
+          {
+            "codigo": "11154",
+            "nombre": "SAN MARTÍN DE PUZHIO"
+          }
+        ]
+      },
+      "12": {
+        "codigo": "12",
+        "nombre": "EL PAN",
+        "parroquias": [
+          {
+            "codigo": "11250",
+            "nombre": "EL PAN"
+          },
+          {
+            "codigo": "11253",
+            "nombre": "SAN VICENTE"
+          }
+        ]
+      },
+      "13": {
+        "codigo": "13",
+        "nombre": "SEVILLA DE ORO",
+        "parroquias": [
+          {
+            "codigo": "11350",
+            "nombre": "SEVILLA DE ORO"
+          },
+          {
+            "codigo": "11351",
+            "nombre": "AMALUZA"
+          },
+          {
+            "codigo": "11352",
+            "nombre": "PALMAS"
+          }
+        ]
+      },
+      "14": {
+        "codigo": "14",
+        "nombre": "GUACHAPALA",
+        "parroquias": [
+          {
+            "codigo": "11450",
+            "nombre": "GUACHAPALA"
+          }
+        ]
+      },
+      "15": {
+        "codigo": "15",
+        "nombre": "CAMILO PONCE ENRÍQUEZ",
+        "parroquias": [
+          {
+            "codigo": "11550",
+            "nombre": "CAMILO PONCE ENRÍQUEZ"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "2",
+    "nombre": "BOLÍVAR",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "GUARANDA",
+        "parroquias": [
+          {
+            "codigo": "20101",
+            "nombre": "ÁNGEL POLIBIO CHÁVES"
+          },
+          {
+            "codigo": "20102",
+            "nombre": "GABRIEL IGNACIO VEINTIMILLA"
+          },
+          {
+            "codigo": "20103",
+            "nombre": "GUANUJO"
+          },
+          {
+            "codigo": "20150",
+            "nombre": "GUARANDA"
+          },
+          {
+            "codigo": "20151",
+            "nombre": "FACUNDO VELA"
+          },
+          {
+            "codigo": "20153",
+            "nombre": "JULIO E. MORENO"
+          },
+          {
+            "codigo": "20155",
+            "nombre": "SALINAS"
+          },
+          {
+            "codigo": "20156",
+            "nombre": "SAN LORENZO"
+          },
+          {
+            "codigo": "20157",
+            "nombre": "SAN SIMÓN"
+          },
+          {
+            "codigo": "20158",
+            "nombre": "SANTA FE"
+          },
+          {
+            "codigo": "20159",
+            "nombre": "SIMIÁTUG"
+          },
+          {
+            "codigo": "20160",
+            "nombre": "SAN LUIS DE PAMBIL"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "CHILLANES",
+        "parroquias": [
+          {
+            "codigo": "20250",
+            "nombre": "CHILLANES"
+          },
+          {
+            "codigo": "20251",
+            "nombre": "SAN JOSÉ DEL TAMBO"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "CHIMBO",
+        "parroquias": [
+          {
+            "codigo": "20350",
+            "nombre": "SAN JOSÉ DE CHIMBO"
+          },
+          {
+            "codigo": "20351",
+            "nombre": "ASUNCIÓN"
+          },
+          {
+            "codigo": "20353",
+            "nombre": "LA MAGDALENA"
+          },
+          {
+            "codigo": "20354",
+            "nombre": "SAN SEBASTIÁN"
+          },
+          {
+            "codigo": "20355",
+            "nombre": "TELIMBELA"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "ECHEANDÍA",
+        "parroquias": [
+          {
+            "codigo": "20450",
+            "nombre": "ECHEANDÍA"
+          }
+        ]
+      },
+      "5": {
+        "codigo": "5",
+        "nombre": "SAN MIGUEL",
+        "parroquias": [
+          {
+            "codigo": "20550",
+            "nombre": "SAN MIGUEL"
+          },
+          {
+            "codigo": "20551",
+            "nombre": "BALSAPAMBA"
+          },
+          {
+            "codigo": "20552",
+            "nombre": "BILOVÁN"
+          },
+          {
+            "codigo": "20553",
+            "nombre": "RÉGULO DE MORA"
+          },
+          {
+            "codigo": "20554",
+            "nombre": "SAN PABLO"
+          },
+          {
+            "codigo": "20555",
+            "nombre": "SANTIAGO"
+          },
+          {
+            "codigo": "20556",
+            "nombre": "SAN VICENTE"
+          }
+        ]
+      },
+      "6": {
+        "codigo": "6",
+        "nombre": "CALUMA",
+        "parroquias": [
+          {
+            "codigo": "20650",
+            "nombre": "CALUMA"
+          }
+        ]
+      },
+      "7": {
+        "codigo": "7",
+        "nombre": "LAS NAVES",
+        "parroquias": [
+          {
+            "codigo": "20701",
+            "nombre": "LAS MERCEDES"
+          },
+          {
+            "codigo": "20702",
+            "nombre": "LAS NAVES"
+          },
+          {
+            "codigo": "20750",
+            "nombre": "LAS NAVES"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "3",
+    "nombre": "CAÑAR",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "AZOGUES",
+        "parroquias": [
+          {
+            "codigo": "30101",
+            "nombre": "AURELIO BAYAS MARTÍNEZ"
+          },
+          {
+            "codigo": "30102",
+            "nombre": "AZOGUES"
+          },
+          {
+            "codigo": "30103",
+            "nombre": "BORRERO"
+          },
+          {
+            "codigo": "30104",
+            "nombre": "SAN FRANCISCO"
+          },
+          {
+            "codigo": "30150",
+            "nombre": "AZOGUES"
+          },
+          {
+            "codigo": "30151",
+            "nombre": "COJITAMBO"
+          },
+          {
+            "codigo": "30153",
+            "nombre": "GUAPÁN"
+          },
+          {
+            "codigo": "30154",
+            "nombre": "JAVIER LOYOLA"
+          },
+          {
+            "codigo": "30155",
+            "nombre": "LUIS CORDERO"
+          },
+          {
+            "codigo": "30156",
+            "nombre": "PINDILIG"
+          },
+          {
+            "codigo": "30157",
+            "nombre": "RIVERA"
+          },
+          {
+            "codigo": "30158",
+            "nombre": "SAN MIGUEL"
+          },
+          {
+            "codigo": "30160",
+            "nombre": "TADAY"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "BIBLIÁN",
+        "parroquias": [
+          {
+            "codigo": "30250",
+            "nombre": "BIBLIÁN"
+          },
+          {
+            "codigo": "30251",
+            "nombre": "NAZÓN"
+          },
+          {
+            "codigo": "30252",
+            "nombre": "SAN FRANCISCO DE SAGEO"
+          },
+          {
+            "codigo": "30253",
+            "nombre": "TURUPAMBA"
+          },
+          {
+            "codigo": "30254",
+            "nombre": "JERUSALÉN"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "CAÑAR",
+        "parroquias": [
+          {
+            "codigo": "30350",
+            "nombre": "CAÑAR"
+          },
+          {
+            "codigo": "30351",
+            "nombre": "CHONTAMARCA"
+          },
+          {
+            "codigo": "30352",
+            "nombre": "CHOROCOPTE"
+          },
+          {
+            "codigo": "30353",
+            "nombre": "GENERAL MORALES"
+          },
+          {
+            "codigo": "30354",
+            "nombre": "GUALLETURO"
+          },
+          {
+            "codigo": "30355",
+            "nombre": "HONORATO VÁSQUEZ"
+          },
+          {
+            "codigo": "30356",
+            "nombre": "INGAPIRCA"
+          },
+          {
+            "codigo": "30357",
+            "nombre": "JUNCAL"
+          },
+          {
+            "codigo": "30358",
+            "nombre": "SAN ANTONIO"
+          },
+          {
+            "codigo": "30361",
+            "nombre": "ZHUD"
+          },
+          {
+            "codigo": "30362",
+            "nombre": "VENTURA"
+          },
+          {
+            "codigo": "30363",
+            "nombre": "DUCUR"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "LA TRONCAL",
+        "parroquias": [
+          {
+            "codigo": "30450",
+            "nombre": "LA TRONCAL"
+          },
+          {
+            "codigo": "30451",
+            "nombre": "MANUEL J. CALLE"
+          },
+          {
+            "codigo": "30452",
+            "nombre": "PANCHO NEGRO"
+          }
+        ]
+      },
+      "5": {
+        "codigo": "5",
+        "nombre": "EL TAMBO",
+        "parroquias": [
+          {
+            "codigo": "30550",
+            "nombre": "EL TAMBO"
+          }
+        ]
+      },
+      "6": {
+        "codigo": "6",
+        "nombre": "DÉLEG",
+        "parroquias": [
+          {
+            "codigo": "30650",
+            "nombre": "DÉLEG"
+          },
+          {
+            "codigo": "30651",
+            "nombre": "SOLANO"
+          }
+        ]
+      },
+      "7": {
+        "codigo": "7",
+        "nombre": "SUSCAL",
+        "parroquias": [
+          {
+            "codigo": "30750",
+            "nombre": "SUSCAL"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "4",
+    "nombre": "CARCHI",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "TULCÁN",
+        "parroquias": [
+          {
+            "codigo": "40101",
+            "nombre": "GONZÁLEZ SUÁREZ"
+          },
+          {
+            "codigo": "40102",
+            "nombre": "TULCÁN"
+          },
+          {
+            "codigo": "40150",
+            "nombre": "TULCÁN"
+          },
+          {
+            "codigo": "40151",
+            "nombre": "EL CARMELO"
+          },
+          {
+            "codigo": "40153",
+            "nombre": "JULIO ANDRADE"
+          },
+          {
+            "codigo": "40154",
+            "nombre": "MALDONADO"
+          },
+          {
+            "codigo": "40155",
+            "nombre": "PIOTER"
+          },
+          {
+            "codigo": "40156",
+            "nombre": "TOBAR DONOSO"
+          },
+          {
+            "codigo": "40157",
+            "nombre": "TUFIÑO"
+          },
+          {
+            "codigo": "40158",
+            "nombre": "URBINA"
+          },
+          {
+            "codigo": "40159",
+            "nombre": "EL CHICAL"
+          },
+          {
+            "codigo": "40161",
+            "nombre": "SANTA MARTHA DE CUBA"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "BOLÍVAR",
+        "parroquias": [
+          {
+            "codigo": "40250",
+            "nombre": "BOLÍVAR"
+          },
+          {
+            "codigo": "40251",
+            "nombre": "GARCÍA MORENO"
+          },
+          {
+            "codigo": "40252",
+            "nombre": "LOS ANDES"
+          },
+          {
+            "codigo": "40253",
+            "nombre": "MONTE OLIVO"
+          },
+          {
+            "codigo": "40254",
+            "nombre": "SAN VICENTE DE PUSIR"
+          },
+          {
+            "codigo": "40255",
+            "nombre": "SAN RAFAEL"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "ESPEJO",
+        "parroquias": [
+          {
+            "codigo": "40301",
+            "nombre": "EL ÁNGEL"
+          },
+          {
+            "codigo": "40302",
+            "nombre": "27 DE SEPTIEMBRE"
+          },
+          {
+            "codigo": "40350",
+            "nombre": "EL ÁNGEL"
+          },
+          {
+            "codigo": "40351",
+            "nombre": "EL GOALTAL"
+          },
+          {
+            "codigo": "40352",
+            "nombre": "LA LIBERTAD"
+          },
+          {
+            "codigo": "40353",
+            "nombre": "SAN ISIDRO"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "MIRA",
+        "parroquias": [
+          {
+            "codigo": "40450",
+            "nombre": "MIRA"
+          },
+          {
+            "codigo": "40451",
+            "nombre": "CONCEPCIÓN"
+          },
+          {
+            "codigo": "40452",
+            "nombre": "JIJÓN Y CAAMAÑO"
+          },
+          {
+            "codigo": "40453",
+            "nombre": "JUAN MONTALVO"
+          }
+        ]
+      },
+      "5": {
+        "codigo": "5",
+        "nombre": "MONTÚFAR",
+        "parroquias": [
+          {
+            "codigo": "40501",
+            "nombre": "GONZÁLEZ SUÁREZ"
+          },
+          {
+            "codigo": "40502",
+            "nombre": "SAN JOSÉ"
+          },
+          {
+            "codigo": "40550",
+            "nombre": "SAN GABRIEL"
+          },
+          {
+            "codigo": "40551",
+            "nombre": "CRISTÓBAL COLÓN"
+          },
+          {
+            "codigo": "40552",
+            "nombre": "CHITÁN DE NAVARRETE"
+          },
+          {
+            "codigo": "40553",
+            "nombre": "FERNÁNDEZ SALVADOR"
+          },
+          {
+            "codigo": "40554",
+            "nombre": "LA PAZ"
+          },
+          {
+            "codigo": "40555",
+            "nombre": "PIARTAL"
+          }
+        ]
+      },
+      "6": {
+        "codigo": "6",
+        "nombre": "SAN PEDRO DE HUACA",
+        "parroquias": [
+          {
+            "codigo": "40650",
+            "nombre": "HUACA"
+          },
+          {
+            "codigo": "40651",
+            "nombre": "MARISCAL SUCRE"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "6",
+    "nombre": "CHIMBORAZO",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "RIOBAMBA",
+        "parroquias": [
+          {
+            "codigo": "60102",
+            "nombre": "MALDONADO"
+          },
+          {
+            "codigo": "60103",
+            "nombre": "VELASCO"
+          },
+          {
+            "codigo": "60104",
+            "nombre": "VELOZ"
+          },
+          {
+            "codigo": "60105",
+            "nombre": "YARUQUÍES"
+          },
+          {
+            "codigo": "60150",
+            "nombre": "RIOBAMBA"
+          },
+          {
+            "codigo": "60151",
+            "nombre": "CACHA"
+          },
+          {
+            "codigo": "60152",
+            "nombre": "CALPI"
+          },
+          {
+            "codigo": "60153",
+            "nombre": "CUBIJÍES"
+          },
+          {
+            "codigo": "60154",
+            "nombre": "FLORES"
+          },
+          {
+            "codigo": "60155",
+            "nombre": "LICÁN"
+          },
+          {
+            "codigo": "60156",
+            "nombre": "LICTO"
+          },
+          {
+            "codigo": "60157",
+            "nombre": "PUNGALÁ"
+          },
+          {
+            "codigo": "60158",
+            "nombre": "PUNÍN"
+          },
+          {
+            "codigo": "60159",
+            "nombre": "QUIMIAG"
+          },
+          {
+            "codigo": "60160",
+            "nombre": "SAN JUAN"
+          },
+          {
+            "codigo": "60161",
+            "nombre": "SAN LUIS"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "ALAUSÍ",
+        "parroquias": [
+          {
+            "codigo": "60250",
+            "nombre": "ALAUSÍ"
+          },
+          {
+            "codigo": "60251",
+            "nombre": "ACHUPALLAS"
+          },
+          {
+            "codigo": "60253",
+            "nombre": "GUASUNTOS"
+          },
+          {
+            "codigo": "60254",
+            "nombre": "HUIGRA"
+          },
+          {
+            "codigo": "60255",
+            "nombre": "MULTITUD"
+          },
+          {
+            "codigo": "60256",
+            "nombre": "PISTISHI"
+          },
+          {
+            "codigo": "60257",
+            "nombre": "PUMALLACTA"
+          },
+          {
+            "codigo": "60258",
+            "nombre": "SEVILLA"
+          },
+          {
+            "codigo": "60259",
+            "nombre": "SIBAMBE"
+          },
+          {
+            "codigo": "60260",
+            "nombre": "TIXÁN"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "COLTA",
+        "parroquias": [
+          {
+            "codigo": "60301",
+            "nombre": "CAJABAMBA"
+          },
+          {
+            "codigo": "60302",
+            "nombre": "SICALPA"
+          },
+          {
+            "codigo": "60350",
+            "nombre": "VILLA LA UNIÓN"
+          },
+          {
+            "codigo": "60351",
+            "nombre": "CAÑI"
+          },
+          {
+            "codigo": "60352",
+            "nombre": "COLUMBE"
+          },
+          {
+            "codigo": "60353",
+            "nombre": "JUAN DE VELASCO"
+          },
+          {
+            "codigo": "60354",
+            "nombre": "SANTIAGO DE QUITO"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "CHAMBO",
+        "parroquias": [
+          {
+            "codigo": "60450",
+            "nombre": "CHAMBO"
+          }
+        ]
+      },
+      "5": {
+        "codigo": "5",
+        "nombre": "CHUNCHI",
+        "parroquias": [
+          {
+            "codigo": "60550",
+            "nombre": "CHUNCHI"
+          },
+          {
+            "codigo": "60551",
+            "nombre": "CAPZOL"
+          },
+          {
+            "codigo": "60552",
+            "nombre": "COMPUD"
+          },
+          {
+            "codigo": "60553",
+            "nombre": "GONZOL"
+          },
+          {
+            "codigo": "60554",
+            "nombre": "LLAGOS"
+          }
+        ]
+      },
+      "6": {
+        "codigo": "6",
+        "nombre": "GUAMOTE",
+        "parroquias": [
+          {
+            "codigo": "60650",
+            "nombre": "GUAMOTE"
+          },
+          {
+            "codigo": "60651",
+            "nombre": "CEBADAS"
+          },
+          {
+            "codigo": "60652",
+            "nombre": "PALMIRA"
+          }
+        ]
+      },
+      "7": {
+        "codigo": "7",
+        "nombre": "GUANO",
+        "parroquias": [
+          {
+            "codigo": "60701",
+            "nombre": "EL ROSARIO"
+          },
+          {
+            "codigo": "60702",
+            "nombre": "LA MATRIZ"
+          },
+          {
+            "codigo": "60750",
+            "nombre": "GUANO"
+          },
+          {
+            "codigo": "60751",
+            "nombre": "GUANANDO"
+          },
+          {
+            "codigo": "60752",
+            "nombre": "ILAPO"
+          },
+          {
+            "codigo": "60753",
+            "nombre": "LA PROVIDENCIA"
+          },
+          {
+            "codigo": "60754",
+            "nombre": "SAN ANDRÉS"
+          },
+          {
+            "codigo": "60755",
+            "nombre": "SAN GERARDO"
+          },
+          {
+            "codigo": "60756",
+            "nombre": "SAN ISIDRO DE PATULÚ"
+          },
+          {
+            "codigo": "60757",
+            "nombre": "SAN JOSÉ DEL CHAZO"
+          },
+          {
+            "codigo": "60758",
+            "nombre": "SANTA FÉ DE GALÁN"
+          },
+          {
+            "codigo": "60759",
+            "nombre": "VALPARAISO"
+          }
+        ]
+      },
+      "8": {
+        "codigo": "8",
+        "nombre": "PALLATANGA",
+        "parroquias": [
+          {
+            "codigo": "60850",
+            "nombre": "PALLATANGA"
+          }
+        ]
+      },
+      "9": {
+        "codigo": "9",
+        "nombre": "PENIPE",
+        "parroquias": [
+          {
+            "codigo": "60950",
+            "nombre": "PENIPE"
+          },
+          {
+            "codigo": "60951",
+            "nombre": "EL ALTAR"
+          },
+          {
+            "codigo": "60952",
+            "nombre": "MATUS"
+          },
+          {
+            "codigo": "60953",
+            "nombre": "PUELA"
+          },
+          {
+            "codigo": "60954",
+            "nombre": "SAN ANTONIO DE BAYUSHIG"
+          },
+          {
+            "codigo": "60955",
+            "nombre": "LA CANDELARIA"
+          },
+          {
+            "codigo": "60956",
+            "nombre": "BILBAO"
+          }
+        ]
+      },
+      "10": {
+        "codigo": "10",
+        "nombre": "CUMANDÁ",
+        "parroquias": [
+          {
+            "codigo": "61050",
+            "nombre": "CUMANDÁ"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "5",
+    "nombre": "COTOPAXI",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "LATACUNGA",
+        "parroquias": [
+          {
+            "codigo": "50101",
+            "nombre": "ELOY ALFARO  (SAN FELIPE) "
+          },
+          {
+            "codigo": "50102",
+            "nombre": "IGNACIO FLORES (PARQUE FLORES) "
+          },
+          {
+            "codigo": "50103",
+            "nombre": "JUAN MONTALVO (SAN SEBASTIÁN)"
+          },
+          {
+            "codigo": "50104",
+            "nombre": "LA MATRIZ"
+          },
+          {
+            "codigo": "50105",
+            "nombre": "SAN BUENAVENTURA"
+          },
+          {
+            "codigo": "50150",
+            "nombre": "LATACUNGA"
+          },
+          {
+            "codigo": "50151",
+            "nombre": "ALÁQUEZ"
+          },
+          {
+            "codigo": "50152",
+            "nombre": "BELISARIO QUEVEDO"
+          },
+          {
+            "codigo": "50153",
+            "nombre": "GUAYTACAMA"
+          },
+          {
+            "codigo": "50154",
+            "nombre": "JOSEGUANGO BAJO"
+          },
+          {
+            "codigo": "50156",
+            "nombre": "MULALÓ"
+          },
+          {
+            "codigo": "50157",
+            "nombre": "ONCE DE NOVIEMBRE"
+          },
+          {
+            "codigo": "50158",
+            "nombre": "POALÓ"
+          },
+          {
+            "codigo": "50159",
+            "nombre": "SAN JUAN DE PASTOCALLE"
+          },
+          {
+            "codigo": "50161",
+            "nombre": "TANICUCHÍ"
+          },
+          {
+            "codigo": "50162",
+            "nombre": "TOACASO"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "LA MANÁ",
+        "parroquias": [
+          {
+            "codigo": "50201",
+            "nombre": "EL CARMEN"
+          },
+          {
+            "codigo": "50202",
+            "nombre": "LA MANÁ "
+          },
+          {
+            "codigo": "50203",
+            "nombre": "EL TRIUNFO"
+          },
+          {
+            "codigo": "50250",
+            "nombre": "LA MANÁ"
+          },
+          {
+            "codigo": "50251",
+            "nombre": "GUASAGANDA"
+          },
+          {
+            "codigo": "50252",
+            "nombre": "PUCAYACU"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "PANGUA",
+        "parroquias": [
+          {
+            "codigo": "50350",
+            "nombre": "EL CORAZÓN"
+          },
+          {
+            "codigo": "50351",
+            "nombre": "MORASPUNGO"
+          },
+          {
+            "codigo": "50352",
+            "nombre": "PINLLOPATA"
+          },
+          {
+            "codigo": "50353",
+            "nombre": "RAMÓN CAMPAÑA"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "PUJILÍ",
+        "parroquias": [
+          {
+            "codigo": "50450",
+            "nombre": "PUJILÍ"
+          },
+          {
+            "codigo": "50451",
+            "nombre": "ANGAMARCA"
+          },
+          {
+            "codigo": "50453",
+            "nombre": "GUANGAJE"
+          },
+          {
+            "codigo": "50455",
+            "nombre": "LA VICTORIA"
+          },
+          {
+            "codigo": "50456",
+            "nombre": "PILALÓ"
+          },
+          {
+            "codigo": "50457",
+            "nombre": "TINGO"
+          },
+          {
+            "codigo": "50458",
+            "nombre": "ZUMBAHUA"
+          }
+        ]
+      },
+      "5": {
+        "codigo": "5",
+        "nombre": "SALCEDO",
+        "parroquias": [
+          {
+            "codigo": "50550",
+            "nombre": "SAN MIGUEL"
+          },
+          {
+            "codigo": "50551",
+            "nombre": "ANTONIO JOSÉ HOLGUÍN"
+          },
+          {
+            "codigo": "50552",
+            "nombre": "CUSUBAMBA"
+          },
+          {
+            "codigo": "50553",
+            "nombre": "MULALILLO"
+          },
+          {
+            "codigo": "50554",
+            "nombre": "MULLIQUINDIL"
+          },
+          {
+            "codigo": "50555",
+            "nombre": "PANSALEO"
+          }
+        ]
+      },
+      "6": {
+        "codigo": "6",
+        "nombre": "SAQUISILÍ",
+        "parroquias": [
+          {
+            "codigo": "50650",
+            "nombre": "SAQUISILÍ"
+          },
+          {
+            "codigo": "50651",
+            "nombre": "CANCHAGUA"
+          },
+          {
+            "codigo": "50652",
+            "nombre": "CHANTILÍN"
+          },
+          {
+            "codigo": "50653",
+            "nombre": "COCHAPAMBA"
+          }
+        ]
+      },
+      "7": {
+        "codigo": "7",
+        "nombre": "SIGCHOS",
+        "parroquias": [
+          {
+            "codigo": "50750",
+            "nombre": "SIGCHOS"
+          },
+          {
+            "codigo": "50751",
+            "nombre": "CHUGCHILLÁN"
+          },
+          {
+            "codigo": "50752",
+            "nombre": "ISINLIVI"
+          },
+          {
+            "codigo": "50753",
+            "nombre": "LAS PAMPAS"
+          },
+          {
+            "codigo": "50754",
+            "nombre": "PALO QUEMADO"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "7",
+    "nombre": "EL ORO",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "MACHALA",
+        "parroquias": [
+          {
+            "codigo": "70101",
+            "nombre": "LA PROVIDENCIA"
+          },
+          {
+            "codigo": "70102",
+            "nombre": "MACHALA"
+          },
+          {
+            "codigo": "70103",
+            "nombre": "PUERTO BOLÍVAR"
+          },
+          {
+            "codigo": "70104",
+            "nombre": "NUEVE DE MAYO"
+          },
+          {
+            "codigo": "70105",
+            "nombre": "EL CAMBIO"
+          },
+          {
+            "codigo": "70150",
+            "nombre": "MACHALA"
+          },
+          {
+            "codigo": "70152",
+            "nombre": "EL RETIRO"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "ARENILLAS",
+        "parroquias": [
+          {
+            "codigo": "70250",
+            "nombre": "ARENILLAS"
+          },
+          {
+            "codigo": "70251",
+            "nombre": "CHACRAS"
+          },
+          {
+            "codigo": "70254",
+            "nombre": "PALMALES"
+          },
+          {
+            "codigo": "70255",
+            "nombre": "CARCABÓN"
+          },
+          {
+            "codigo": "70256",
+            "nombre": "LA CUCA"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "ATAHUALPA",
+        "parroquias": [
+          {
+            "codigo": "70350",
+            "nombre": "PACCHA"
+          },
+          {
+            "codigo": "70351",
+            "nombre": "AYAPAMBA"
+          },
+          {
+            "codigo": "70352",
+            "nombre": "CORDONCILLO"
+          },
+          {
+            "codigo": "70353",
+            "nombre": "MILAGRO"
+          },
+          {
+            "codigo": "70354",
+            "nombre": "SAN JOSÉ"
+          },
+          {
+            "codigo": "70355",
+            "nombre": "SAN JUAN DE CERRO AZUL"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "BALSAS",
+        "parroquias": [
+          {
+            "codigo": "70450",
+            "nombre": "BALSAS"
+          },
+          {
+            "codigo": "70451",
+            "nombre": "BELLAMARÍA"
+          }
+        ]
+      },
+      "5": {
+        "codigo": "5",
+        "nombre": "CHILLA",
+        "parroquias": [
+          {
+            "codigo": "70550",
+            "nombre": "CHILLA"
+          }
+        ]
+      },
+      "6": {
+        "codigo": "6",
+        "nombre": "EL GUABO",
+        "parroquias": [
+          {
+            "codigo": "70650",
+            "nombre": "EL GUABO"
+          },
+          {
+            "codigo": "70651",
+            "nombre": "BARBONES"
+          },
+          {
+            "codigo": "70652",
+            "nombre": "LA IBERIA"
+          },
+          {
+            "codigo": "70653",
+            "nombre": "TENDALES"
+          },
+          {
+            "codigo": "70654",
+            "nombre": "RÍO BONITO"
+          }
+        ]
+      },
+      "7": {
+        "codigo": "7",
+        "nombre": "HUAQUILLAS",
+        "parroquias": [
+          {
+            "codigo": "70701",
+            "nombre": "ECUADOR"
+          },
+          {
+            "codigo": "70702",
+            "nombre": "EL PARAÍSO"
+          },
+          {
+            "codigo": "70703",
+            "nombre": "HUALTACO"
+          },
+          {
+            "codigo": "70704",
+            "nombre": "MILTON REYES"
+          },
+          {
+            "codigo": "70705",
+            "nombre": "UNIÓN LOJANA"
+          },
+          {
+            "codigo": "70750",
+            "nombre": "HUAQUILLAS"
+          }
+        ]
+      },
+      "8": {
+        "codigo": "8",
+        "nombre": "MARCABELÍ",
+        "parroquias": [
+          {
+            "codigo": "70850",
+            "nombre": "MARCABELÍ"
+          },
+          {
+            "codigo": "70851",
+            "nombre": "EL INGENIO"
+          }
+        ]
+      },
+      "9": {
+        "codigo": "9",
+        "nombre": "PASAJE",
+        "parroquias": [
+          {
+            "codigo": "70901",
+            "nombre": "BOLÍVAR"
+          },
+          {
+            "codigo": "70902",
+            "nombre": "LOMA DE FRANCO"
+          },
+          {
+            "codigo": "70903",
+            "nombre": "OCHOA LEÓN (MATRIZ)"
+          },
+          {
+            "codigo": "70904",
+            "nombre": "TRES CERRITOS"
+          },
+          {
+            "codigo": "70950",
+            "nombre": "PASAJE"
+          },
+          {
+            "codigo": "70951",
+            "nombre": "BUENAVISTA"
+          },
+          {
+            "codigo": "70952",
+            "nombre": "CASACAY"
+          },
+          {
+            "codigo": "70953",
+            "nombre": "LA PEAÑA"
+          },
+          {
+            "codigo": "70954",
+            "nombre": "PROGRESO"
+          },
+          {
+            "codigo": "70955",
+            "nombre": "UZHCURRUMI"
+          },
+          {
+            "codigo": "70956",
+            "nombre": "CAÑAQUEMADA"
+          }
+        ]
+      },
+      "10": {
+        "codigo": "10",
+        "nombre": "PIÑAS",
+        "parroquias": [
+          {
+            "codigo": "71001",
+            "nombre": "LA MATRIZ"
+          },
+          {
+            "codigo": "71002",
+            "nombre": "LA SUSAYA"
+          },
+          {
+            "codigo": "71003",
+            "nombre": "PIÑAS GRANDE"
+          },
+          {
+            "codigo": "71050",
+            "nombre": "PIÑAS"
+          },
+          {
+            "codigo": "71051",
+            "nombre": "CAPIRO"
+          },
+          {
+            "codigo": "71052",
+            "nombre": "LA BOCANA"
+          },
+          {
+            "codigo": "71053",
+            "nombre": "MOROMORO"
+          },
+          {
+            "codigo": "71054",
+            "nombre": "PIEDRAS"
+          },
+          {
+            "codigo": "71055",
+            "nombre": "SAN ROQUE"
+          },
+          {
+            "codigo": "71056",
+            "nombre": "SARACAY"
+          }
+        ]
+      },
+      "11": {
+        "codigo": "11",
+        "nombre": "PORTOVELO",
+        "parroquias": [
+          {
+            "codigo": "71150",
+            "nombre": "PORTOVELO"
+          },
+          {
+            "codigo": "71151",
+            "nombre": "CURTINCAPA"
+          },
+          {
+            "codigo": "71152",
+            "nombre": "MORALES"
+          },
+          {
+            "codigo": "71153",
+            "nombre": "SALATÍ"
+          }
+        ]
+      },
+      "12": {
+        "codigo": "12",
+        "nombre": "SANTA ROSA",
+        "parroquias": [
+          {
+            "codigo": "71201",
+            "nombre": "SANTA ROSA"
+          },
+          {
+            "codigo": "71202",
+            "nombre": "PUERTO JELÍ"
+          },
+          {
+            "codigo": "71203",
+            "nombre": "BALNEARIO JAMBELÍ (SATÉLITE)"
+          },
+          {
+            "codigo": "71204",
+            "nombre": "JUMÓN (SATÉLITE)"
+          },
+          {
+            "codigo": "71205",
+            "nombre": "NUEVO SANTA ROSA"
+          },
+          {
+            "codigo": "71250",
+            "nombre": "SANTA ROSA"
+          },
+          {
+            "codigo": "71251",
+            "nombre": "BELLAVISTA"
+          },
+          {
+            "codigo": "71252",
+            "nombre": "JAMBELÍ"
+          },
+          {
+            "codigo": "71253",
+            "nombre": "LA AVANZADA"
+          },
+          {
+            "codigo": "71254",
+            "nombre": "SAN ANTONIO"
+          },
+          {
+            "codigo": "71255",
+            "nombre": "TORATA"
+          },
+          {
+            "codigo": "71256",
+            "nombre": "VICTORIA"
+          },
+          {
+            "codigo": "71257",
+            "nombre": "BELLAMARÍA"
+          }
+        ]
+      },
+      "13": {
+        "codigo": "13",
+        "nombre": "ZARUMA",
+        "parroquias": [
+          {
+            "codigo": "71350",
+            "nombre": "ZARUMA"
+          },
+          {
+            "codigo": "71351",
+            "nombre": "ABAÑÍN"
+          },
+          {
+            "codigo": "71352",
+            "nombre": "ARCAPAMBA"
+          },
+          {
+            "codigo": "71353",
+            "nombre": "GUANAZÁN"
+          },
+          {
+            "codigo": "71354",
+            "nombre": "GUIZHAGUIÑA"
+          },
+          {
+            "codigo": "71355",
+            "nombre": "HUERTAS"
+          },
+          {
+            "codigo": "71356",
+            "nombre": "MALVAS"
+          },
+          {
+            "codigo": "71357",
+            "nombre": "MULUNCAY GRANDE"
+          },
+          {
+            "codigo": "71358",
+            "nombre": "SINSAO"
+          },
+          {
+            "codigo": "71359",
+            "nombre": "SALVIAS"
+          }
+        ]
+      },
+      "14": {
+        "codigo": "14",
+        "nombre": "LAS LAJAS",
+        "parroquias": [
+          {
+            "codigo": "71401",
+            "nombre": "LA VICTORIA"
+          },
+          {
+            "codigo": "71402",
+            "nombre": "PLATANILLOS"
+          },
+          {
+            "codigo": "71403",
+            "nombre": "VALLE HERMOSO"
+          },
+          {
+            "codigo": "71450",
+            "nombre": "LA VICTORIA"
+          },
+          {
+            "codigo": "71451",
+            "nombre": "LA LIBERTAD"
+          },
+          {
+            "codigo": "71452",
+            "nombre": "EL PARAÍSO"
+          },
+          {
+            "codigo": "71453",
+            "nombre": "SAN ISIDRO"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "8",
+    "nombre": "ESMERALDAS",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "ESMERALDAS",
+        "parroquias": [
+          {
+            "codigo": "80101",
+            "nombre": "BARTOLOMÉ RUIZ (CÉSAR FRANCO CARRIÓN) "
+          },
+          {
+            "codigo": "80102",
+            "nombre": "5 DE AGOSTO"
+          },
+          {
+            "codigo": "80103",
+            "nombre": "ESMERALDAS"
+          },
+          {
+            "codigo": "80104",
+            "nombre": "LUIS TELLO  (LAS PALMAS)"
+          },
+          {
+            "codigo": "80105",
+            "nombre": "SIMÓN PLATA TORRES"
+          },
+          {
+            "codigo": "80150",
+            "nombre": "ESMERALDAS"
+          },
+          {
+            "codigo": "80152",
+            "nombre": "CAMARONES"
+          },
+          {
+            "codigo": "80153",
+            "nombre": "CORONEL CARLOS CONCHA TORRES"
+          },
+          {
+            "codigo": "80154",
+            "nombre": "CHINCA"
+          },
+          {
+            "codigo": "80159",
+            "nombre": "MAJUA"
+          },
+          {
+            "codigo": "80163",
+            "nombre": "SAN MATEO"
+          },
+          {
+            "codigo": "80165",
+            "nombre": "TABIAZO"
+          },
+          {
+            "codigo": "80166",
+            "nombre": "TACHINA"
+          },
+          {
+            "codigo": "80168",
+            "nombre": "VUELTA LARGA"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "ELOY ALFARO",
+        "parroquias": [
+          {
+            "codigo": "80250",
+            "nombre": "VALDEZ"
+          },
+          {
+            "codigo": "80251",
+            "nombre": "ANCHAYACU"
+          },
+          {
+            "codigo": "80252",
+            "nombre": "ATAHUALPA"
+          },
+          {
+            "codigo": "80253",
+            "nombre": "BORBÓN"
+          },
+          {
+            "codigo": "80254",
+            "nombre": "LA TOLA"
+          },
+          {
+            "codigo": "80255",
+            "nombre": "LUIS VARGAS TORRES"
+          },
+          {
+            "codigo": "80256",
+            "nombre": "MALDONADO"
+          },
+          {
+            "codigo": "80257",
+            "nombre": "PAMPANAL DE BOLÍVAR"
+          },
+          {
+            "codigo": "80258",
+            "nombre": "SAN FRANCISCO DE ONZOLE"
+          },
+          {
+            "codigo": "80259",
+            "nombre": "SANTO DOMINGO DE ONZOLE"
+          },
+          {
+            "codigo": "80260",
+            "nombre": "SELVA ALEGRE"
+          },
+          {
+            "codigo": "80261",
+            "nombre": "TELEMBÍ"
+          },
+          {
+            "codigo": "80262",
+            "nombre": "COLÓN ELOY DEL MARÍA"
+          },
+          {
+            "codigo": "80263",
+            "nombre": "SAN JOSÉ DE CAYAPAS"
+          },
+          {
+            "codigo": "80264",
+            "nombre": "TIMBIRÉ"
+          },
+          {
+            "codigo": "80265",
+            "nombre": "SANTA LUCÍA DE LAS PEÑAS"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "MUISNE",
+        "parroquias": [
+          {
+            "codigo": "80350",
+            "nombre": "MUISNE"
+          },
+          {
+            "codigo": "80351",
+            "nombre": "BOLÍVAR"
+          },
+          {
+            "codigo": "80352",
+            "nombre": "DAULE"
+          },
+          {
+            "codigo": "80353",
+            "nombre": "GALERA"
+          },
+          {
+            "codigo": "80354",
+            "nombre": "QUINGUE"
+          },
+          {
+            "codigo": "80355",
+            "nombre": "SÁLIMA"
+          },
+          {
+            "codigo": "80356",
+            "nombre": "SAN FRANCISCO"
+          },
+          {
+            "codigo": "80357",
+            "nombre": "SAN GREGORIO"
+          },
+          {
+            "codigo": "80358",
+            "nombre": "SAN JOSÉ DE CHAMANGA"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "QUININDÉ",
+        "parroquias": [
+          {
+            "codigo": "80450",
+            "nombre": "ROSA ZÁRATE "
+          },
+          {
+            "codigo": "80451",
+            "nombre": "CUBE"
+          },
+          {
+            "codigo": "80452",
+            "nombre": "CHURA"
+          },
+          {
+            "codigo": "80453",
+            "nombre": "MALIMPIA"
+          },
+          {
+            "codigo": "80454",
+            "nombre": "VICHE"
+          },
+          {
+            "codigo": "80455",
+            "nombre": "LA UNIÓN"
+          }
+        ]
+      },
+      "5": {
+        "codigo": "5",
+        "nombre": "SAN LORENZO",
+        "parroquias": [
+          {
+            "codigo": "80550",
+            "nombre": "SAN LORENZO"
+          },
+          {
+            "codigo": "80551",
+            "nombre": "ALTO TAMBO"
+          },
+          {
+            "codigo": "80552",
+            "nombre": "ANCÓN"
+          },
+          {
+            "codigo": "80553",
+            "nombre": "CALDERÓN"
+          },
+          {
+            "codigo": "80554",
+            "nombre": "CARONDELET"
+          },
+          {
+            "codigo": "80555",
+            "nombre": "5 DE JUNIO"
+          },
+          {
+            "codigo": "80556",
+            "nombre": "CONCEPCIÓN"
+          },
+          {
+            "codigo": "80557",
+            "nombre": "MATAJE"
+          },
+          {
+            "codigo": "80558",
+            "nombre": "SAN JAVIER DE CACHAVÍ"
+          },
+          {
+            "codigo": "80559",
+            "nombre": "SANTA RITA"
+          },
+          {
+            "codigo": "80560",
+            "nombre": "TAMBILLO"
+          },
+          {
+            "codigo": "80561",
+            "nombre": "TULULBÍ"
+          },
+          {
+            "codigo": "80562",
+            "nombre": "URBINA"
+          }
+        ]
+      },
+      "6": {
+        "codigo": "6",
+        "nombre": "ATACAMES",
+        "parroquias": [
+          {
+            "codigo": "80650",
+            "nombre": "ATACAMES"
+          },
+          {
+            "codigo": "80651",
+            "nombre": "LA UNIÓN"
+          },
+          {
+            "codigo": "80652",
+            "nombre": "SÚA"
+          },
+          {
+            "codigo": "80653",
+            "nombre": "TONCHIGÜE"
+          },
+          {
+            "codigo": "80654",
+            "nombre": "TONSUPA"
+          }
+        ]
+      },
+      "7": {
+        "codigo": "7",
+        "nombre": "RIOVERDE",
+        "parroquias": [
+          {
+            "codigo": "80750",
+            "nombre": "RIOVERDE"
+          },
+          {
+            "codigo": "80751",
+            "nombre": "CHONTADURO"
+          },
+          {
+            "codigo": "80752",
+            "nombre": "CHUMUNDÉ"
+          },
+          {
+            "codigo": "80753",
+            "nombre": "LAGARTO"
+          },
+          {
+            "codigo": "80754",
+            "nombre": "MONTALVO"
+          },
+          {
+            "codigo": "80755",
+            "nombre": "ROCAFUERTE"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "20",
+    "nombre": "GALÁPAGOS",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "SAN CRISTÓBAL",
+        "parroquias": [
+          {
+            "codigo": "200150",
+            "nombre": "PUERTO BAQUERIZO MORENO"
+          },
+          {
+            "codigo": "200151",
+            "nombre": "EL PROGRESO"
+          },
+          {
+            "codigo": "200152",
+            "nombre": "ISLA SANTA MARÍA FLOREANA"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "ISABELA",
+        "parroquias": [
+          {
+            "codigo": "200250",
+            "nombre": "PUERTO VILLAMIL"
+          },
+          {
+            "codigo": "200251",
+            "nombre": "TOMÁS DE BERLANGA"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "SANTA CRUZ",
+        "parroquias": [
+          {
+            "codigo": "200350",
+            "nombre": "PUERTO AYORA"
+          },
+          {
+            "codigo": "200351",
+            "nombre": "BELLA VISTA"
+          },
+          {
+            "codigo": "200352",
+            "nombre": "SANTA ROSA"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "9",
+    "nombre": "GUAYAS",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "GUAYAQUIL",
+        "parroquias": [
+          {
+            "codigo": "90101",
+            "nombre": "AYACUCHO"
+          },
+          {
+            "codigo": "90102",
+            "nombre": "BOLÍVAR  (SAGRARIO) "
+          },
+          {
+            "codigo": "90103",
+            "nombre": "CARBO (CONCEPCIÓN) "
+          },
+          {
+            "codigo": "90104",
+            "nombre": "FEBRES CORDERO"
+          },
+          {
+            "codigo": "90105",
+            "nombre": "GARCÍA MORENO"
+          },
+          {
+            "codigo": "90106",
+            "nombre": "LETAMENDI"
+          },
+          {
+            "codigo": "90107",
+            "nombre": "NUEVE DE OCTUBRE"
+          },
+          {
+            "codigo": "90108",
+            "nombre": "OLMEDO  (SAN ALEJO) "
+          },
+          {
+            "codigo": "90109",
+            "nombre": "ROCA"
+          },
+          {
+            "codigo": "90110",
+            "nombre": "ROCAFUERTE"
+          },
+          {
+            "codigo": "90111",
+            "nombre": "SUCRE"
+          },
+          {
+            "codigo": "90112",
+            "nombre": "TARQUI"
+          },
+          {
+            "codigo": "90113",
+            "nombre": "URDANETA"
+          },
+          {
+            "codigo": "90114",
+            "nombre": "XIMENA"
+          },
+          {
+            "codigo": "90115",
+            "nombre": "PASCUALES"
+          },
+          {
+            "codigo": "90150",
+            "nombre": "GUAYAQUIL"
+          },
+          {
+            "codigo": "90152",
+            "nombre": "JUAN GÓMEZ RENDÓN"
+          },
+          {
+            "codigo": "90153",
+            "nombre": "MORRO"
+          },
+          {
+            "codigo": "90156",
+            "nombre": "POSORJA"
+          },
+          {
+            "codigo": "90157",
+            "nombre": "PUNÁ"
+          },
+          {
+            "codigo": "90158",
+            "nombre": "TENGUEL"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "ALFREDO BAQUERIZO MORENO (JUJÁN)",
+        "parroquias": [
+          {
+            "codigo": "90250",
+            "nombre": "ALFREDO BAQUERIZO MORENO (JUJÁN)"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "BALAO",
+        "parroquias": [
+          {
+            "codigo": "90350",
+            "nombre": "BALAO"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "BALZAR",
+        "parroquias": [
+          {
+            "codigo": "90450",
+            "nombre": "BALZAR"
+          }
+        ]
+      },
+      "5": {
+        "codigo": "5",
+        "nombre": "COLIMES",
+        "parroquias": [
+          {
+            "codigo": "90550",
+            "nombre": "COLIMES"
+          },
+          {
+            "codigo": "90551",
+            "nombre": "SAN JACINTO"
+          }
+        ]
+      },
+      "6": {
+        "codigo": "6",
+        "nombre": "DAULE",
+        "parroquias": [
+          {
+            "codigo": "90601",
+            "nombre": "DAULE"
+          },
+          {
+            "codigo": "90602",
+            "nombre": "LA AURORA (SATÉLITE)"
+          },
+          {
+            "codigo": "90603",
+            "nombre": "BANIFE"
+          },
+          {
+            "codigo": "90604",
+            "nombre": "EMILIANO CAICEDO MARCOS"
+          },
+          {
+            "codigo": "90605",
+            "nombre": "MAGRO"
+          },
+          {
+            "codigo": "90606",
+            "nombre": "PADRE JUAN BAUTISTA AGUIRRE"
+          },
+          {
+            "codigo": "90607",
+            "nombre": "SANTA CLARA"
+          },
+          {
+            "codigo": "90608",
+            "nombre": "VICENTE PIEDRAHITA"
+          },
+          {
+            "codigo": "90650",
+            "nombre": "DAULE"
+          },
+          {
+            "codigo": "90652",
+            "nombre": "JUAN BAUTISTA AGUIRRE"
+          },
+          {
+            "codigo": "90653",
+            "nombre": "LAUREL"
+          },
+          {
+            "codigo": "90654",
+            "nombre": "LIMONAL"
+          },
+          {
+            "codigo": "90656",
+            "nombre": "LOS LOJAS"
+          }
+        ]
+      },
+      "7": {
+        "codigo": "7",
+        "nombre": "DURÁN",
+        "parroquias": [
+          {
+            "codigo": "90701",
+            "nombre": "ELOY ALFARO (DURÁN)"
+          },
+          {
+            "codigo": "90702",
+            "nombre": "EL RECREO"
+          },
+          {
+            "codigo": "90703",
+            "nombre": "DIVINO NIÑO"
+          },
+          {
+            "codigo": "90750",
+            "nombre": "ELOY ALFARO"
+          }
+        ]
+      },
+      "8": {
+        "codigo": "8",
+        "nombre": "EL EMPALME",
+        "parroquias": [
+          {
+            "codigo": "90850",
+            "nombre": "VELASCO IBARRA"
+          },
+          {
+            "codigo": "90851",
+            "nombre": "GUAYAS"
+          },
+          {
+            "codigo": "90852",
+            "nombre": "EL ROSARIO"
+          }
+        ]
+      },
+      "9": {
+        "codigo": "9",
+        "nombre": "EL TRIUNFO",
+        "parroquias": [
+          {
+            "codigo": "90950",
+            "nombre": "EL TRIUNFO"
+          }
+        ]
+      },
+      "10": {
+        "codigo": "10",
+        "nombre": "MILAGRO",
+        "parroquias": [
+          {
+            "codigo": "91001",
+            "nombre": "CAMILO ANDRADE"
+          },
+          {
+            "codigo": "91002",
+            "nombre": "ELOY ALFARO"
+          },
+          {
+            "codigo": "91003",
+            "nombre": "CHIRIJOS"
+          },
+          {
+            "codigo": "91004",
+            "nombre": "CORONEL ENRIQUE VALDEZ"
+          },
+          {
+            "codigo": "91005",
+            "nombre": "ROSA MARÍA"
+          },
+          {
+            "codigo": "91006",
+            "nombre": "JOSÉ MARÍA VELASCO IBARRA"
+          },
+          {
+            "codigo": "91007",
+            "nombre": "VICENTE ROCAFUERTE"
+          },
+          {
+            "codigo": "91008",
+            "nombre": "ERNESTO SEMINARIO"
+          },
+          {
+            "codigo": "91009",
+            "nombre": "LAS PIÑAS"
+          },
+          {
+            "codigo": "91050",
+            "nombre": "MILAGRO"
+          },
+          {
+            "codigo": "91051",
+            "nombre": "CHOBO"
+          },
+          {
+            "codigo": "91053",
+            "nombre": "MARISCAL SUCRE"
+          },
+          {
+            "codigo": "91054",
+            "nombre": "ROBERTO ASTUDILLO"
+          }
+        ]
+      },
+      "11": {
+        "codigo": "11",
+        "nombre": "NARANJAL",
+        "parroquias": [
+          {
+            "codigo": "91150",
+            "nombre": "NARANJAL"
+          },
+          {
+            "codigo": "91151",
+            "nombre": "JESÚS MARÍA"
+          },
+          {
+            "codigo": "91152",
+            "nombre": "SAN CARLOS"
+          },
+          {
+            "codigo": "91153",
+            "nombre": "SANTA ROSA DE FLANDES"
+          },
+          {
+            "codigo": "91154",
+            "nombre": "TAURA"
+          }
+        ]
+      },
+      "12": {
+        "codigo": "12",
+        "nombre": "NARANJITO",
+        "parroquias": [
+          {
+            "codigo": "91250",
+            "nombre": "NARANJITO"
+          }
+        ]
+      },
+      "13": {
+        "codigo": "13",
+        "nombre": "PALESTINA",
+        "parroquias": [
+          {
+            "codigo": "91350",
+            "nombre": "PALESTINA"
+          }
+        ]
+      },
+      "14": {
+        "codigo": "14",
+        "nombre": "PEDRO CARBO",
+        "parroquias": [
+          {
+            "codigo": "91450",
+            "nombre": "PEDRO CARBO"
+          },
+          {
+            "codigo": "91451",
+            "nombre": "VALLE DE LA VIRGEN"
+          },
+          {
+            "codigo": "91452",
+            "nombre": "SABANILLA"
+          }
+        ]
+      },
+      "16": {
+        "codigo": "16",
+        "nombre": "SAMBORONDÓN",
+        "parroquias": [
+          {
+            "codigo": "91601",
+            "nombre": "SAMBORONDÓN"
+          },
+          {
+            "codigo": "91602",
+            "nombre": "LA PUNTILLA (SATÉLITE)"
+          },
+          {
+            "codigo": "91650",
+            "nombre": "SAMBORONDÓN"
+          },
+          {
+            "codigo": "91651",
+            "nombre": "TARIFA"
+          }
+        ]
+      },
+      "18": {
+        "codigo": "18",
+        "nombre": "SANTA LUCÍA",
+        "parroquias": [
+          {
+            "codigo": "91850",
+            "nombre": "SANTA LUCÍA"
+          }
+        ]
+      },
+      "19": {
+        "codigo": "19",
+        "nombre": "SALITRE",
+        "parroquias": [
+          {
+            "codigo": "91901",
+            "nombre": "BOCANA"
+          },
+          {
+            "codigo": "91902",
+            "nombre": "CANDILEJOS"
+          },
+          {
+            "codigo": "91903",
+            "nombre": "CENTRAL"
+          },
+          {
+            "codigo": "91904",
+            "nombre": "PARAÍSO"
+          },
+          {
+            "codigo": "91905",
+            "nombre": "SAN MATEO"
+          },
+          {
+            "codigo": "91950",
+            "nombre": "EL SALITRE"
+          },
+          {
+            "codigo": "91951",
+            "nombre": "GENERAL VERNAZA"
+          },
+          {
+            "codigo": "91952",
+            "nombre": "LA VICTORIA"
+          },
+          {
+            "codigo": "91953",
+            "nombre": "JUNQUILLAL"
+          }
+        ]
+      },
+      "20": {
+        "codigo": "20",
+        "nombre": "SAN JACINTO DE YAGUACHI",
+        "parroquias": [
+          {
+            "codigo": "92050",
+            "nombre": "SAN JACINTO DE YAGUACHI"
+          },
+          {
+            "codigo": "92053",
+            "nombre": "GENERAL PEDRO J. MONTERO"
+          },
+          {
+            "codigo": "92055",
+            "nombre": "YAGUACHI VIEJO"
+          },
+          {
+            "codigo": "92056",
+            "nombre": "VIRGEN DE FÁTIMA"
+          }
+        ]
+      },
+      "21": {
+        "codigo": "21",
+        "nombre": "PLAYAS",
+        "parroquias": [
+          {
+            "codigo": "92150",
+            "nombre": "GENERAL VILLAMIL"
+          }
+        ]
+      },
+      "22": {
+        "codigo": "22",
+        "nombre": "SIMÓN BOLÍVAR",
+        "parroquias": [
+          {
+            "codigo": "92250",
+            "nombre": "SIMÓN BOLÍVAR"
+          },
+          {
+            "codigo": "92251",
+            "nombre": "CORONEL LORENZO DE GARAYCOA"
+          }
+        ]
+      },
+      "23": {
+        "codigo": "23",
+        "nombre": "CORONEL MARCELINO MARIDUEÑA",
+        "parroquias": [
+          {
+            "codigo": "92350",
+            "nombre": "CORONEL MARCELINO MARIDUEÑA"
+          }
+        ]
+      },
+      "24": {
+        "codigo": "24",
+        "nombre": "LOMAS DE SARGENTILLO",
+        "parroquias": [
+          {
+            "codigo": "92450",
+            "nombre": "LOMAS DE SARGENTILLO"
+          }
+        ]
+      },
+      "25": {
+        "codigo": "25",
+        "nombre": "NOBOL",
+        "parroquias": [
+          {
+            "codigo": "92550",
+            "nombre": "NARCISA DE JESÚS"
+          }
+        ]
+      },
+      "27": {
+        "codigo": "27",
+        "nombre": "GENERAL  ANTONIO ELIZALDE",
+        "parroquias": [
+          {
+            "codigo": "92750",
+            "nombre": "GENERAL ANTONIO ELIZALDE"
+          }
+        ]
+      },
+      "28": {
+        "codigo": "28",
+        "nombre": "ISIDRO AYORA",
+        "parroquias": [
+          {
+            "codigo": "92850",
+            "nombre": "ISIDRO AYORA"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "10",
+    "nombre": "IMBABURA",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "IBARRA",
+        "parroquias": [
+          {
+            "codigo": "100101",
+            "nombre": "CARANQUI"
+          },
+          {
+            "codigo": "100102",
+            "nombre": "GUAYAQUIL DE ALPACHACA"
+          },
+          {
+            "codigo": "100103",
+            "nombre": "SAGRARIO"
+          },
+          {
+            "codigo": "100104",
+            "nombre": "SAN FRANCISCO"
+          },
+          {
+            "codigo": "100105",
+            "nombre": "LA DOLOROSA DEL PRIORATO"
+          },
+          {
+            "codigo": "100150",
+            "nombre": "SAN MIGUEL DE IBARRA"
+          },
+          {
+            "codigo": "100151",
+            "nombre": "AMBUQUÍ"
+          },
+          {
+            "codigo": "100152",
+            "nombre": "ANGOCHAGUA"
+          },
+          {
+            "codigo": "100153",
+            "nombre": "CAROLINA"
+          },
+          {
+            "codigo": "100154",
+            "nombre": "LA ESPERANZA"
+          },
+          {
+            "codigo": "100155",
+            "nombre": "LITA"
+          },
+          {
+            "codigo": "100156",
+            "nombre": "SALINAS"
+          },
+          {
+            "codigo": "100157",
+            "nombre": "SAN ANTONIO"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "ANTONIO ANTE",
+        "parroquias": [
+          {
+            "codigo": "100201",
+            "nombre": "ANDRADE MARÍN  (LOURDES) "
+          },
+          {
+            "codigo": "100202",
+            "nombre": "ATUNTAQUI"
+          },
+          {
+            "codigo": "100250",
+            "nombre": "ATUNTAQUI"
+          },
+          {
+            "codigo": "100251",
+            "nombre": "IMBAYA"
+          },
+          {
+            "codigo": "100252",
+            "nombre": "SAN FRANCISCO DE NATABUELA"
+          },
+          {
+            "codigo": "100253",
+            "nombre": "SAN JOSÉ DE CHALTURA"
+          },
+          {
+            "codigo": "100254",
+            "nombre": "SAN ROQUE"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "COTACACHI",
+        "parroquias": [
+          {
+            "codigo": "100301",
+            "nombre": "SAGRARIO"
+          },
+          {
+            "codigo": "100302",
+            "nombre": "SAN FRANCISCO"
+          },
+          {
+            "codigo": "100350",
+            "nombre": "COTACACHI"
+          },
+          {
+            "codigo": "100351",
+            "nombre": "APUELA"
+          },
+          {
+            "codigo": "100352",
+            "nombre": "GARCÍA MORENO"
+          },
+          {
+            "codigo": "100353",
+            "nombre": "IMANTAG"
+          },
+          {
+            "codigo": "100354",
+            "nombre": "PEÑAHERRERA"
+          },
+          {
+            "codigo": "100355",
+            "nombre": "PLAZA GUTIÉRREZ"
+          },
+          {
+            "codigo": "100356",
+            "nombre": "QUIROGA"
+          },
+          {
+            "codigo": "100357",
+            "nombre": "SEIS DE JULIO DE CUELLAJE"
+          },
+          {
+            "codigo": "100358",
+            "nombre": "VACAS GALINDO"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "OTAVALO",
+        "parroquias": [
+          {
+            "codigo": "100401",
+            "nombre": "JORDÁN"
+          },
+          {
+            "codigo": "100402",
+            "nombre": "SAN LUIS"
+          },
+          {
+            "codigo": "100450",
+            "nombre": "OTAVALO"
+          },
+          {
+            "codigo": "100451",
+            "nombre": "DR. MIGUEL EGAS CABEZAS"
+          },
+          {
+            "codigo": "100452",
+            "nombre": "EUGENIO ESPEJO"
+          },
+          {
+            "codigo": "100453",
+            "nombre": "GONZÁLEZ SUÁREZ"
+          },
+          {
+            "codigo": "100454",
+            "nombre": "PATAQUÍ"
+          },
+          {
+            "codigo": "100455",
+            "nombre": "SAN JOSÉ DE QUICHINCHE"
+          },
+          {
+            "codigo": "100456",
+            "nombre": "SAN JUAN DE ILUMÁN"
+          },
+          {
+            "codigo": "100457",
+            "nombre": "SAN PABLO"
+          },
+          {
+            "codigo": "100458",
+            "nombre": "SAN RAFAEL"
+          },
+          {
+            "codigo": "100459",
+            "nombre": "SELVA ALEGRE"
+          }
+        ]
+      },
+      "5": {
+        "codigo": "5",
+        "nombre": "PIMAMPIRO",
+        "parroquias": [
+          {
+            "codigo": "100550",
+            "nombre": "PIMAMPIRO"
+          },
+          {
+            "codigo": "100551",
+            "nombre": "CHUGÁ"
+          },
+          {
+            "codigo": "100552",
+            "nombre": "MARIANO ACOSTA"
+          },
+          {
+            "codigo": "100553",
+            "nombre": "SAN FRANCISCO DE SIGSIPAMBA"
+          }
+        ]
+      },
+      "6": {
+        "codigo": "6",
+        "nombre": "SAN MIGUEL DE URCUQUÍ",
+        "parroquias": [
+          {
+            "codigo": "100650",
+            "nombre": "URCUQUÍ"
+          },
+          {
+            "codigo": "100651",
+            "nombre": "CAHUASQUÍ"
+          },
+          {
+            "codigo": "100652",
+            "nombre": "LA MERCED DE BUENOS AIRES"
+          },
+          {
+            "codigo": "100653",
+            "nombre": "PABLO ARENAS"
+          },
+          {
+            "codigo": "100654",
+            "nombre": "SAN BLAS"
+          },
+          {
+            "codigo": "100655",
+            "nombre": "TUMBABIRO"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "11",
+    "nombre": "LOJA",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "LOJA",
+        "parroquias": [
+          {
+            "codigo": "110101",
+            "nombre": "EL SAGRARIO"
+          },
+          {
+            "codigo": "110102",
+            "nombre": "SAN SEBASTIÁN"
+          },
+          {
+            "codigo": "110103",
+            "nombre": "SUCRE"
+          },
+          {
+            "codigo": "110104",
+            "nombre": "VALLE"
+          },
+          {
+            "codigo": "110105",
+            "nombre": "CARIGÁN"
+          },
+          {
+            "codigo": "110106",
+            "nombre": "PUNZARA"
+          },
+          {
+            "codigo": "110150",
+            "nombre": "LOJA"
+          },
+          {
+            "codigo": "110151",
+            "nombre": "CHANTACO"
+          },
+          {
+            "codigo": "110152",
+            "nombre": "CHUQUIRIBAMBA"
+          },
+          {
+            "codigo": "110153",
+            "nombre": "EL CISNE"
+          },
+          {
+            "codigo": "110154",
+            "nombre": "GUALEL"
+          },
+          {
+            "codigo": "110155",
+            "nombre": "JIMBILLA"
+          },
+          {
+            "codigo": "110156",
+            "nombre": "MALACATOS"
+          },
+          {
+            "codigo": "110157",
+            "nombre": "SAN LUCAS"
+          },
+          {
+            "codigo": "110158",
+            "nombre": "SAN PEDRO DE VILCABAMBA"
+          },
+          {
+            "codigo": "110159",
+            "nombre": "SANTIAGO"
+          },
+          {
+            "codigo": "110160",
+            "nombre": "TAQUIL"
+          },
+          {
+            "codigo": "110161",
+            "nombre": "VILCABAMBA"
+          },
+          {
+            "codigo": "110162",
+            "nombre": "YANGANA"
+          },
+          {
+            "codigo": "110163",
+            "nombre": "QUINARA"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "CALVAS",
+        "parroquias": [
+          {
+            "codigo": "110201",
+            "nombre": "CARIAMANGA"
+          },
+          {
+            "codigo": "110202",
+            "nombre": "CHILE"
+          },
+          {
+            "codigo": "110203",
+            "nombre": "SAN VICENTE"
+          },
+          {
+            "codigo": "110250",
+            "nombre": "CARIAMANGA"
+          },
+          {
+            "codigo": "110251",
+            "nombre": "COLAISACA"
+          },
+          {
+            "codigo": "110252",
+            "nombre": "EL LUCERO"
+          },
+          {
+            "codigo": "110253",
+            "nombre": "UTUANA"
+          },
+          {
+            "codigo": "110254",
+            "nombre": "SANGUILLÍN"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "CATAMAYO",
+        "parroquias": [
+          {
+            "codigo": "110301",
+            "nombre": "CATAMAYO"
+          },
+          {
+            "codigo": "110302",
+            "nombre": "SAN JOSÉ"
+          },
+          {
+            "codigo": "110350",
+            "nombre": "CATAMAYO"
+          },
+          {
+            "codigo": "110351",
+            "nombre": "EL TAMBO"
+          },
+          {
+            "codigo": "110352",
+            "nombre": "GUAYQUICHUMA"
+          },
+          {
+            "codigo": "110353",
+            "nombre": "SAN PEDRO DE LA BENDITA"
+          },
+          {
+            "codigo": "110354",
+            "nombre": "ZAMBI"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "CELICA",
+        "parroquias": [
+          {
+            "codigo": "110450",
+            "nombre": "CELICA"
+          },
+          {
+            "codigo": "110451",
+            "nombre": "CRUZPAMBA"
+          },
+          {
+            "codigo": "110455",
+            "nombre": "PÓZUL"
+          },
+          {
+            "codigo": "110456",
+            "nombre": "SABANILLA"
+          },
+          {
+            "codigo": "110457",
+            "nombre": "TENIENTE MAXIMILIANO RODRÍGUEZ LOAIZA"
+          }
+        ]
+      },
+      "5": {
+        "codigo": "5",
+        "nombre": "CHAGUARPAMBA",
+        "parroquias": [
+          {
+            "codigo": "110550",
+            "nombre": "CHAGUARPAMBA"
+          },
+          {
+            "codigo": "110551",
+            "nombre": "BUENAVISTA"
+          },
+          {
+            "codigo": "110552",
+            "nombre": "EL ROSARIO"
+          },
+          {
+            "codigo": "110553",
+            "nombre": "SANTA RUFINA"
+          },
+          {
+            "codigo": "110554",
+            "nombre": "AMARILLOS"
+          }
+        ]
+      },
+      "6": {
+        "codigo": "6",
+        "nombre": "ESPÍNDOLA",
+        "parroquias": [
+          {
+            "codigo": "110650",
+            "nombre": "AMALUZA"
+          },
+          {
+            "codigo": "110651",
+            "nombre": "BELLAVISTA"
+          },
+          {
+            "codigo": "110652",
+            "nombre": "JIMBURA"
+          },
+          {
+            "codigo": "110653",
+            "nombre": "SANTA TERESITA"
+          },
+          {
+            "codigo": "110654",
+            "nombre": "27 DE ABRIL"
+          },
+          {
+            "codigo": "110655",
+            "nombre": "EL INGENIO"
+          },
+          {
+            "codigo": "110656",
+            "nombre": "EL AIRO"
+          }
+        ]
+      },
+      "7": {
+        "codigo": "7",
+        "nombre": "GONZANAMÁ",
+        "parroquias": [
+          {
+            "codigo": "110750",
+            "nombre": "GONZANAMÁ"
+          },
+          {
+            "codigo": "110751",
+            "nombre": "CHANGAIMINA"
+          },
+          {
+            "codigo": "110753",
+            "nombre": "NAMBACOLA"
+          },
+          {
+            "codigo": "110754",
+            "nombre": "PURUNUMA"
+          },
+          {
+            "codigo": "110756",
+            "nombre": "SACAPALCA"
+          }
+        ]
+      },
+      "8": {
+        "codigo": "8",
+        "nombre": "MACARÁ",
+        "parroquias": [
+          {
+            "codigo": "110801",
+            "nombre": "GENERAL ELOY ALFARO (SAN SEBASTIÁN) "
+          },
+          {
+            "codigo": "110802",
+            "nombre": "MACARÁ  (MANUEL ENRIQUE RENGEL SUQUILANDA)"
+          },
+          {
+            "codigo": "110850",
+            "nombre": "MACARÁ"
+          },
+          {
+            "codigo": "110851",
+            "nombre": "LARAMA"
+          },
+          {
+            "codigo": "110852",
+            "nombre": "LA VICTORIA"
+          },
+          {
+            "codigo": "110853",
+            "nombre": "SABIANGO"
+          }
+        ]
+      },
+      "9": {
+        "codigo": "9",
+        "nombre": "PALTAS",
+        "parroquias": [
+          {
+            "codigo": "110901",
+            "nombre": "CATACOCHA"
+          },
+          {
+            "codigo": "110902",
+            "nombre": "LOURDES"
+          },
+          {
+            "codigo": "110950",
+            "nombre": "CATACOCHA"
+          },
+          {
+            "codigo": "110951",
+            "nombre": "CANGONAMÁ"
+          },
+          {
+            "codigo": "110952",
+            "nombre": "GUACHANAMÁ"
+          },
+          {
+            "codigo": "110954",
+            "nombre": "LAURO GUERRERO"
+          },
+          {
+            "codigo": "110956",
+            "nombre": "ORIANGA"
+          },
+          {
+            "codigo": "110957",
+            "nombre": "SAN ANTONIO"
+          },
+          {
+            "codigo": "110958",
+            "nombre": "CASANGA"
+          },
+          {
+            "codigo": "110959",
+            "nombre": "YAMANA"
+          }
+        ]
+      },
+      "10": {
+        "codigo": "10",
+        "nombre": "PUYANGO",
+        "parroquias": [
+          {
+            "codigo": "111050",
+            "nombre": "ALAMOR"
+          },
+          {
+            "codigo": "111051",
+            "nombre": "CIANO"
+          },
+          {
+            "codigo": "111052",
+            "nombre": "EL ARENAL"
+          },
+          {
+            "codigo": "111053",
+            "nombre": "EL LIMO"
+          },
+          {
+            "codigo": "111054",
+            "nombre": "MERCADILLO"
+          },
+          {
+            "codigo": "111055",
+            "nombre": "VICENTINO"
+          }
+        ]
+      },
+      "11": {
+        "codigo": "11",
+        "nombre": "SARAGURO",
+        "parroquias": [
+          {
+            "codigo": "111150",
+            "nombre": "SARAGURO"
+          },
+          {
+            "codigo": "111151",
+            "nombre": "EL PARAÍSO DE CELEN"
+          },
+          {
+            "codigo": "111152",
+            "nombre": "EL TABLÓN"
+          },
+          {
+            "codigo": "111153",
+            "nombre": "LLUZHAPA"
+          },
+          {
+            "codigo": "111154",
+            "nombre": "MANÚ"
+          },
+          {
+            "codigo": "111155",
+            "nombre": "SAN ANTONIO DE QUMBE"
+          },
+          {
+            "codigo": "111156",
+            "nombre": "SAN PABLO DE TENTA"
+          },
+          {
+            "codigo": "111157",
+            "nombre": "SAN SEBASTIÁN DE YÚLUC"
+          },
+          {
+            "codigo": "111158",
+            "nombre": "SELVA ALEGRE"
+          },
+          {
+            "codigo": "111159",
+            "nombre": "URDANETA"
+          },
+          {
+            "codigo": "111160",
+            "nombre": "SUMAYPAMBA"
+          }
+        ]
+      },
+      "12": {
+        "codigo": "12",
+        "nombre": "SOZORANGA",
+        "parroquias": [
+          {
+            "codigo": "111250",
+            "nombre": "SOZORANGA"
+          },
+          {
+            "codigo": "111251",
+            "nombre": "NUEVA FÁTIMA"
+          },
+          {
+            "codigo": "111252",
+            "nombre": "TACAMOROS"
+          }
+        ]
+      },
+      "13": {
+        "codigo": "13",
+        "nombre": "ZAPOTILLO",
+        "parroquias": [
+          {
+            "codigo": "111350",
+            "nombre": "ZAPOTILLO"
+          },
+          {
+            "codigo": "111351",
+            "nombre": "MANGAHURCO"
+          },
+          {
+            "codigo": "111352",
+            "nombre": "GARZAREAL"
+          },
+          {
+            "codigo": "111353",
+            "nombre": "LIMONES"
+          },
+          {
+            "codigo": "111354",
+            "nombre": "PALETILLAS"
+          },
+          {
+            "codigo": "111355",
+            "nombre": "BOLASPAMBA"
+          },
+          {
+            "codigo": "111356",
+            "nombre": "CAZADEROS"
+          }
+        ]
+      },
+      "14": {
+        "codigo": "14",
+        "nombre": "PINDAL",
+        "parroquias": [
+          {
+            "codigo": "111450",
+            "nombre": "PINDAL"
+          },
+          {
+            "codigo": "111451",
+            "nombre": "CHAQUINAL"
+          },
+          {
+            "codigo": "111452",
+            "nombre": "12 DE DICIEMBRE"
+          },
+          {
+            "codigo": "111453",
+            "nombre": "MILAGROS"
+          }
+        ]
+      },
+      "15": {
+        "codigo": "15",
+        "nombre": "QUILANGA",
+        "parroquias": [
+          {
+            "codigo": "111550",
+            "nombre": "QUILANGA"
+          },
+          {
+            "codigo": "111551",
+            "nombre": "FUNDOCHAMBA"
+          },
+          {
+            "codigo": "111552",
+            "nombre": "SAN ANTONIO DE LAS ARADAS"
+          }
+        ]
+      },
+      "16": {
+        "codigo": "16",
+        "nombre": "OLMEDO",
+        "parroquias": [
+          {
+            "codigo": "111650",
+            "nombre": "OLMEDO"
+          },
+          {
+            "codigo": "111651",
+            "nombre": "LA TINGUE"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "12",
+    "nombre": "LOS RÍOS",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "BABAHOYO",
+        "parroquias": [
+          {
+            "codigo": "120101",
+            "nombre": "CLEMENTE BAQUERIZO"
+          },
+          {
+            "codigo": "120102",
+            "nombre": "DOCTOR CAMILO PONCE "
+          },
+          {
+            "codigo": "120103",
+            "nombre": "BARREIRO"
+          },
+          {
+            "codigo": "120104",
+            "nombre": "EL SALTO"
+          },
+          {
+            "codigo": "120150",
+            "nombre": "BABAHOYO"
+          },
+          {
+            "codigo": "120152",
+            "nombre": "CARACOL"
+          },
+          {
+            "codigo": "120153",
+            "nombre": "FEBRES CORDERO"
+          },
+          {
+            "codigo": "120154",
+            "nombre": "PIMOCHA"
+          },
+          {
+            "codigo": "120155",
+            "nombre": "LA UNIÓN"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "BABA",
+        "parroquias": [
+          {
+            "codigo": "120250",
+            "nombre": "BABA"
+          },
+          {
+            "codigo": "120251",
+            "nombre": "GUARE"
+          },
+          {
+            "codigo": "120252",
+            "nombre": "ISLA DE BEJUCAL"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "MONTALVO",
+        "parroquias": [
+          {
+            "codigo": "120350",
+            "nombre": "MONTALVO"
+          },
+          {
+            "codigo": "120351",
+            "nombre": "LA ESMERALDA"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "PUEBLOVIEJO",
+        "parroquias": [
+          {
+            "codigo": "120450",
+            "nombre": "PUEBLOVIEJO"
+          },
+          {
+            "codigo": "120451",
+            "nombre": "PUERTO PECHICHE"
+          },
+          {
+            "codigo": "120452",
+            "nombre": "SAN JUAN"
+          }
+        ]
+      },
+      "5": {
+        "codigo": "5",
+        "nombre": "QUEVEDO",
+        "parroquias": [
+          {
+            "codigo": "120501",
+            "nombre": "QUEVEDO"
+          },
+          {
+            "codigo": "120502",
+            "nombre": "SAN CAMILO"
+          },
+          {
+            "codigo": "120504",
+            "nombre": "GUAYACÁN"
+          },
+          {
+            "codigo": "120505",
+            "nombre": "NICOLÁS INFANTE DÍAZ"
+          },
+          {
+            "codigo": "120506",
+            "nombre": "SAN CRISTÓBAL"
+          },
+          {
+            "codigo": "120507",
+            "nombre": "SIETE DE OCTUBRE"
+          },
+          {
+            "codigo": "120508",
+            "nombre": "24 DE MAYO"
+          },
+          {
+            "codigo": "120509",
+            "nombre": "VENUS DEL RÍO QUEVEDO"
+          },
+          {
+            "codigo": "120510",
+            "nombre": "VIVA ALFARO"
+          },
+          {
+            "codigo": "120550",
+            "nombre": "QUEVEDO"
+          },
+          {
+            "codigo": "120553",
+            "nombre": "SAN CARLOS"
+          },
+          {
+            "codigo": "120555",
+            "nombre": "LA ESPERANZA"
+          }
+        ]
+      },
+      "6": {
+        "codigo": "6",
+        "nombre": "URDANETA",
+        "parroquias": [
+          {
+            "codigo": "120650",
+            "nombre": "CATARAMA"
+          },
+          {
+            "codigo": "120651",
+            "nombre": "RICAURTE"
+          }
+        ]
+      },
+      "7": {
+        "codigo": "7",
+        "nombre": "VENTANAS",
+        "parroquias": [
+          {
+            "codigo": "120701",
+            "nombre": "10 DE NOVIEMBRE"
+          },
+          {
+            "codigo": "120702",
+            "nombre": "VENTANAS"
+          },
+          {
+            "codigo": "120750",
+            "nombre": "VENTANAS"
+          },
+          {
+            "codigo": "120752",
+            "nombre": "ZAPOTAL"
+          },
+          {
+            "codigo": "120753",
+            "nombre": "CHACARITA"
+          },
+          {
+            "codigo": "120754",
+            "nombre": "LOS ÁNGELES"
+          }
+        ]
+      },
+      "8": {
+        "codigo": "8",
+        "nombre": "VINCES",
+        "parroquias": [
+          {
+            "codigo": "120801",
+            "nombre": "BALZAR DE VINCES"
+          },
+          {
+            "codigo": "120802",
+            "nombre": "VINCES CENTRAL"
+          },
+          {
+            "codigo": "120803",
+            "nombre": "SAN LORENZO DE VINCES"
+          },
+          {
+            "codigo": "120850",
+            "nombre": "VINCES"
+          },
+          {
+            "codigo": "120851",
+            "nombre": "ANTONIO SOTOMAYOR"
+          }
+        ]
+      },
+      "9": {
+        "codigo": "9",
+        "nombre": "PALENQUE",
+        "parroquias": [
+          {
+            "codigo": "120950",
+            "nombre": "PALENQUE"
+          }
+        ]
+      },
+      "10": {
+        "codigo": "10",
+        "nombre": "BUENA FE",
+        "parroquias": [
+          {
+            "codigo": "121001",
+            "nombre": "SAN JACINTO DE BUENA FE"
+          },
+          {
+            "codigo": "121002",
+            "nombre": "7 DE AGOSTO"
+          },
+          {
+            "codigo": "121003",
+            "nombre": "11 DE OCTUBRE"
+          },
+          {
+            "codigo": "121050",
+            "nombre": "SAN JACINTO DE BUENA FE"
+          },
+          {
+            "codigo": "121051",
+            "nombre": "PATRICIA PILAR"
+          }
+        ]
+      },
+      "11": {
+        "codigo": "11",
+        "nombre": "VALENCIA",
+        "parroquias": [
+          {
+            "codigo": "121101",
+            "nombre": "VALENCIA"
+          },
+          {
+            "codigo": "121102",
+            "nombre": "LA UNIÓN"
+          },
+          {
+            "codigo": "121103",
+            "nombre": "LA NUEVA UNIÓN"
+          },
+          {
+            "codigo": "121150",
+            "nombre": "VALENCIA"
+          }
+        ]
+      },
+      "12": {
+        "codigo": "12",
+        "nombre": "MOCACHE",
+        "parroquias": [
+          {
+            "codigo": "121250",
+            "nombre": "MOCACHE"
+          }
+        ]
+      },
+      "13": {
+        "codigo": "13",
+        "nombre": "QUINSALOMA",
+        "parroquias": [
+          {
+            "codigo": "121350",
+            "nombre": "QUINSALOMA"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "13",
+    "nombre": "MANABÍ",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "PORTOVIEJO",
+        "parroquias": [
+          {
+            "codigo": "130101",
+            "nombre": "PORTOVIEJO"
+          },
+          {
+            "codigo": "130102",
+            "nombre": "12 DE MARZO"
+          },
+          {
+            "codigo": "130103",
+            "nombre": "COLÓN"
+          },
+          {
+            "codigo": "130104",
+            "nombre": "PICOAZÁ"
+          },
+          {
+            "codigo": "130105",
+            "nombre": "SAN PABLO"
+          },
+          {
+            "codigo": "130106",
+            "nombre": "ANDRÉS DE VERA"
+          },
+          {
+            "codigo": "130107",
+            "nombre": "FRANCISCO PACHECO"
+          },
+          {
+            "codigo": "130108",
+            "nombre": "18 DE OCTUBRE"
+          },
+          {
+            "codigo": "130109",
+            "nombre": "SIMÓN BOLÍVAR"
+          },
+          {
+            "codigo": "130150",
+            "nombre": "PORTOVIEJO"
+          },
+          {
+            "codigo": "130151",
+            "nombre": "ABDÓN CALDERÓN"
+          },
+          {
+            "codigo": "130152",
+            "nombre": "ALHAJUELA"
+          },
+          {
+            "codigo": "130153",
+            "nombre": "CRUCITA"
+          },
+          {
+            "codigo": "130154",
+            "nombre": "PUEBLO NUEVO"
+          },
+          {
+            "codigo": "130155",
+            "nombre": "RIOCHICO"
+          },
+          {
+            "codigo": "130156",
+            "nombre": "SAN PLÁCIDO"
+          },
+          {
+            "codigo": "130157",
+            "nombre": "CHIRIJOS"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "BOLÍVAR",
+        "parroquias": [
+          {
+            "codigo": "130250",
+            "nombre": "CALCETA"
+          },
+          {
+            "codigo": "130251",
+            "nombre": "MEMBRILLO"
+          },
+          {
+            "codigo": "130252",
+            "nombre": "QUIROGA"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "CHONE",
+        "parroquias": [
+          {
+            "codigo": "130301",
+            "nombre": "CHONE"
+          },
+          {
+            "codigo": "130302",
+            "nombre": "SANTA RITA"
+          },
+          {
+            "codigo": "130350",
+            "nombre": "CHONE"
+          },
+          {
+            "codigo": "130351",
+            "nombre": "BOYACÁ"
+          },
+          {
+            "codigo": "130352",
+            "nombre": "CANUTO"
+          },
+          {
+            "codigo": "130353",
+            "nombre": "CONVENTO"
+          },
+          {
+            "codigo": "130354",
+            "nombre": "CHIBUNGA"
+          },
+          {
+            "codigo": "130355",
+            "nombre": "ELOY ALFARO"
+          },
+          {
+            "codigo": "130356",
+            "nombre": "RICAURTE"
+          },
+          {
+            "codigo": "130357",
+            "nombre": "SAN ANTONIO"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "EL CARMEN",
+        "parroquias": [
+          {
+            "codigo": "130401",
+            "nombre": "EL CARMEN"
+          },
+          {
+            "codigo": "130402",
+            "nombre": "4 DE DICIEMBRE"
+          },
+          {
+            "codigo": "130450",
+            "nombre": "EL CARMEN"
+          },
+          {
+            "codigo": "130451",
+            "nombre": "WILFRIDO LOOR MOREIRA"
+          },
+          {
+            "codigo": "130452",
+            "nombre": "SAN PEDRO DE SUMA"
+          },
+          {
+            "codigo": "130453",
+            "nombre": "SANTA MARÍA"
+          },
+          {
+            "codigo": "130454",
+            "nombre": "EL PARAÍSO LA 14"
+          }
+        ]
+      },
+      "5": {
+        "codigo": "5",
+        "nombre": "FLAVIO ALFARO",
+        "parroquias": [
+          {
+            "codigo": "130550",
+            "nombre": "FLAVIO ALFARO"
+          },
+          {
+            "codigo": "130551",
+            "nombre": "SAN FRANCISCO DE NOVILLO"
+          },
+          {
+            "codigo": "130552",
+            "nombre": "ZAPALLO"
+          }
+        ]
+      },
+      "6": {
+        "codigo": "6",
+        "nombre": "JIPIJAPA",
+        "parroquias": [
+          {
+            "codigo": "130601",
+            "nombre": "DOCTOR MIGUEL MORÁN LUCIO "
+          },
+          {
+            "codigo": "130602",
+            "nombre": "MANUEL INOCENCIO PARRALES Y GUALE"
+          },
+          {
+            "codigo": "130603",
+            "nombre": "SAN LORENZO DE JIPIJAPA"
+          },
+          {
+            "codigo": "130650",
+            "nombre": "JIPIJAPA"
+          },
+          {
+            "codigo": "130651",
+            "nombre": "AMÉRICA"
+          },
+          {
+            "codigo": "130652",
+            "nombre": "EL ANEGADO"
+          },
+          {
+            "codigo": "130653",
+            "nombre": "JULCUY"
+          },
+          {
+            "codigo": "130654",
+            "nombre": "LA UNIÓN"
+          },
+          {
+            "codigo": "130656",
+            "nombre": "MEMBRILLAL"
+          },
+          {
+            "codigo": "130657",
+            "nombre": "PEDRO PABLO GÓMEZ"
+          },
+          {
+            "codigo": "130658",
+            "nombre": "PUERTO CAYO"
+          }
+        ]
+      },
+      "7": {
+        "codigo": "7",
+        "nombre": "JUNÍN",
+        "parroquias": [
+          {
+            "codigo": "130750",
+            "nombre": "JUNÍN"
+          }
+        ]
+      },
+      "8": {
+        "codigo": "8",
+        "nombre": "MANTA",
+        "parroquias": [
+          {
+            "codigo": "130801",
+            "nombre": "LOS ESTEROS"
+          },
+          {
+            "codigo": "130802",
+            "nombre": "MANTA"
+          },
+          {
+            "codigo": "130803",
+            "nombre": "SAN MATEO"
+          },
+          {
+            "codigo": "130804",
+            "nombre": "TARQUI"
+          },
+          {
+            "codigo": "130805",
+            "nombre": "ELOY ALFARO"
+          },
+          {
+            "codigo": "130850",
+            "nombre": "MANTA"
+          },
+          {
+            "codigo": "130851",
+            "nombre": "SAN LORENZO"
+          },
+          {
+            "codigo": "130852",
+            "nombre": "SANTA MARIANITA"
+          }
+        ]
+      },
+      "9": {
+        "codigo": "9",
+        "nombre": "MONTECRISTI",
+        "parroquias": [
+          {
+            "codigo": "130901",
+            "nombre": "ANÍBAL SAN ANDRÉS"
+          },
+          {
+            "codigo": "130902",
+            "nombre": "MONTECRISTI"
+          },
+          {
+            "codigo": "130903",
+            "nombre": "EL COLORADO"
+          },
+          {
+            "codigo": "130904",
+            "nombre": "GENERAL ELOY ALFARO"
+          },
+          {
+            "codigo": "130905",
+            "nombre": "LEONIDAS PROAÑO"
+          },
+          {
+            "codigo": "130950",
+            "nombre": "MONTECRISTI"
+          },
+          {
+            "codigo": "130952",
+            "nombre": "LA PILA"
+          }
+        ]
+      },
+      "10": {
+        "codigo": "10",
+        "nombre": "PAJÁN",
+        "parroquias": [
+          {
+            "codigo": "131050",
+            "nombre": "PAJÁN"
+          },
+          {
+            "codigo": "131051",
+            "nombre": "CAMPOZANO"
+          },
+          {
+            "codigo": "131052",
+            "nombre": "CASCOL"
+          },
+          {
+            "codigo": "131053",
+            "nombre": "GUALE"
+          },
+          {
+            "codigo": "131054",
+            "nombre": "LASCANO"
+          }
+        ]
+      },
+      "11": {
+        "codigo": "11",
+        "nombre": "PICHINCHA",
+        "parroquias": [
+          {
+            "codigo": "131150",
+            "nombre": "PICHINCHA"
+          },
+          {
+            "codigo": "131151",
+            "nombre": "BARRAGANETE"
+          },
+          {
+            "codigo": "131152",
+            "nombre": "SAN SEBASTIÁN"
+          }
+        ]
+      },
+      "12": {
+        "codigo": "12",
+        "nombre": "ROCAFUERTE",
+        "parroquias": [
+          {
+            "codigo": "131250",
+            "nombre": "ROCAFUERTE"
+          }
+        ]
+      },
+      "13": {
+        "codigo": "13",
+        "nombre": "SANTA ANA",
+        "parroquias": [
+          {
+            "codigo": "131301",
+            "nombre": "SANTA ANA"
+          },
+          {
+            "codigo": "131302",
+            "nombre": "LODANA"
+          },
+          {
+            "codigo": "131350",
+            "nombre": "SANTA ANA DE VUELTA LARGA"
+          },
+          {
+            "codigo": "131351",
+            "nombre": "AYACUCHO"
+          },
+          {
+            "codigo": "131352",
+            "nombre": "HONORATO VÁSQUEZ"
+          },
+          {
+            "codigo": "131353",
+            "nombre": "LA UNIÓN"
+          },
+          {
+            "codigo": "131355",
+            "nombre": "SAN PABLO"
+          }
+        ]
+      },
+      "14": {
+        "codigo": "14",
+        "nombre": "SUCRE",
+        "parroquias": [
+          {
+            "codigo": "131401",
+            "nombre": "BAHÍA DE CARÁQUEZ"
+          },
+          {
+            "codigo": "131402",
+            "nombre": "LEONIDAS PLAZA GUTIÉRREZ"
+          },
+          {
+            "codigo": "131450",
+            "nombre": "BAHÍA DE CARÁQUEZ"
+          },
+          {
+            "codigo": "131453",
+            "nombre": "CHARAPOTÓ"
+          },
+          {
+            "codigo": "131457",
+            "nombre": "SAN ISIDRO"
+          }
+        ]
+      },
+      "15": {
+        "codigo": "15",
+        "nombre": "TOSAGUA",
+        "parroquias": [
+          {
+            "codigo": "131550",
+            "nombre": "TOSAGUA"
+          },
+          {
+            "codigo": "131551",
+            "nombre": "BACHILLERO"
+          },
+          {
+            "codigo": "131552",
+            "nombre": "ÁNGEL PEDRO GILER"
+          }
+        ]
+      },
+      "16": {
+        "codigo": "16",
+        "nombre": "24 DE MAYO",
+        "parroquias": [
+          {
+            "codigo": "131650",
+            "nombre": "SUCRE"
+          },
+          {
+            "codigo": "131651",
+            "nombre": "BELLAVISTA"
+          },
+          {
+            "codigo": "131652",
+            "nombre": "NOBOA"
+          },
+          {
+            "codigo": "131653",
+            "nombre": "ARQUITECTO SIXTO DURÁN BALLÉN"
+          }
+        ]
+      },
+      "17": {
+        "codigo": "17",
+        "nombre": "PEDERNALES",
+        "parroquias": [
+          {
+            "codigo": "131750",
+            "nombre": "PEDERNALES"
+          },
+          {
+            "codigo": "131751",
+            "nombre": "COJIMÍES"
+          },
+          {
+            "codigo": "131752",
+            "nombre": "DIEZ DE AGOSTO"
+          },
+          {
+            "codigo": "131753",
+            "nombre": "ATAHUALPA"
+          }
+        ]
+      },
+      "18": {
+        "codigo": "18",
+        "nombre": "OLMEDO",
+        "parroquias": [
+          {
+            "codigo": "131850",
+            "nombre": "OLMEDO"
+          }
+        ]
+      },
+      "19": {
+        "codigo": "19",
+        "nombre": "PUERTO LÓPEZ",
+        "parroquias": [
+          {
+            "codigo": "131950",
+            "nombre": "PUERTO LÓPEZ"
+          },
+          {
+            "codigo": "131951",
+            "nombre": "MACHALILLA"
+          },
+          {
+            "codigo": "131952",
+            "nombre": "SALANGO"
+          }
+        ]
+      },
+      "20": {
+        "codigo": "20",
+        "nombre": "JAMA",
+        "parroquias": [
+          {
+            "codigo": "132050",
+            "nombre": "JAMA"
+          }
+        ]
+      },
+      "21": {
+        "codigo": "21",
+        "nombre": "JARAMIJÓ",
+        "parroquias": [
+          {
+            "codigo": "132150",
+            "nombre": "JARAMIJÓ"
+          }
+        ]
+      },
+      "22": {
+        "codigo": "22",
+        "nombre": "SAN VICENTE",
+        "parroquias": [
+          {
+            "codigo": "132250",
+            "nombre": "SAN VICENTE"
+          },
+          {
+            "codigo": "132251",
+            "nombre": "CANOA"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "14",
+    "nombre": "MORONA SANTIAGO",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "MORONA",
+        "parroquias": [
+          {
+            "codigo": "140150",
+            "nombre": "MACAS"
+          },
+          {
+            "codigo": "140151",
+            "nombre": "ALSHI"
+          },
+          {
+            "codigo": "140153",
+            "nombre": "GENERAL PROAÑO"
+          },
+          {
+            "codigo": "140156",
+            "nombre": "SAN ISIDRO"
+          },
+          {
+            "codigo": "140157",
+            "nombre": "SEVILLA DON BOSCO"
+          },
+          {
+            "codigo": "140158",
+            "nombre": "SINAÍ"
+          },
+          {
+            "codigo": "140160",
+            "nombre": "ZUÑA"
+          },
+          {
+            "codigo": "140162",
+            "nombre": "CUCHAENTZA"
+          },
+          {
+            "codigo": "140164",
+            "nombre": "RÍO BLANCO"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "GUALAQUIZA",
+        "parroquias": [
+          {
+            "codigo": "140201",
+            "nombre": "GUALAQUIZA"
+          },
+          {
+            "codigo": "140202",
+            "nombre": "MERCEDES MOLINA"
+          },
+          {
+            "codigo": "140250",
+            "nombre": "GUALAQUIZA"
+          },
+          {
+            "codigo": "140251",
+            "nombre": "AMAZONAS"
+          },
+          {
+            "codigo": "140252",
+            "nombre": "BERMEJOS"
+          },
+          {
+            "codigo": "140253",
+            "nombre": "BOMBOÍZA"
+          },
+          {
+            "codigo": "140254",
+            "nombre": "CHIGÜINDA"
+          },
+          {
+            "codigo": "140255",
+            "nombre": "EL ROSARIO"
+          },
+          {
+            "codigo": "140256",
+            "nombre": "NUEVA TARQUI"
+          },
+          {
+            "codigo": "140257",
+            "nombre": "SAN MIGUEL DE CUYES"
+          },
+          {
+            "codigo": "140258",
+            "nombre": "EL IDEAL"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "LIMÓN INDANZA",
+        "parroquias": [
+          {
+            "codigo": "140350",
+            "nombre": "GENERAL LEONIDAS PLAZA GUTIÉRREZ"
+          },
+          {
+            "codigo": "140351",
+            "nombre": "INDANZA"
+          },
+          {
+            "codigo": "140353",
+            "nombre": "SAN ANTONIO"
+          },
+          {
+            "codigo": "140356",
+            "nombre": "SAN MIGUEL DE CONCHAY"
+          },
+          {
+            "codigo": "140357",
+            "nombre": "SANTA SUSANA DE CHIVIAZA"
+          },
+          {
+            "codigo": "140358",
+            "nombre": "YUNGANZA"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "PALORA",
+        "parroquias": [
+          {
+            "codigo": "140450",
+            "nombre": "PALORA"
+          },
+          {
+            "codigo": "140451",
+            "nombre": "ARAPICOS"
+          },
+          {
+            "codigo": "140452",
+            "nombre": "CUMANDÁ"
+          },
+          {
+            "codigo": "140454",
+            "nombre": "SANGAY"
+          },
+          {
+            "codigo": "140455",
+            "nombre": "16 DE AGOSTO"
+          }
+        ]
+      },
+      "5": {
+        "codigo": "5",
+        "nombre": "SANTIAGO",
+        "parroquias": [
+          {
+            "codigo": "140550",
+            "nombre": "SANTIAGO DE MÉNDEZ"
+          },
+          {
+            "codigo": "140551",
+            "nombre": "COPAL"
+          },
+          {
+            "codigo": "140552",
+            "nombre": "CHUPIANZA"
+          },
+          {
+            "codigo": "140553",
+            "nombre": "PATUCA"
+          },
+          {
+            "codigo": "140554",
+            "nombre": "SAN LUIS DE EL ACHO"
+          },
+          {
+            "codigo": "140556",
+            "nombre": "TAYUZA"
+          },
+          {
+            "codigo": "140557",
+            "nombre": "SAN FRANCISCO DE CHINIMBIMI"
+          }
+        ]
+      },
+      "6": {
+        "codigo": "6",
+        "nombre": "SUCÚA",
+        "parroquias": [
+          {
+            "codigo": "140650",
+            "nombre": "SUCÚA"
+          },
+          {
+            "codigo": "140651",
+            "nombre": "ASUNCIÓN"
+          },
+          {
+            "codigo": "140652",
+            "nombre": "HUAMBI"
+          },
+          {
+            "codigo": "140655",
+            "nombre": "SANTA MARIANITA DE JESÚS"
+          }
+        ]
+      },
+      "7": {
+        "codigo": "7",
+        "nombre": "HUAMBOYA",
+        "parroquias": [
+          {
+            "codigo": "140750",
+            "nombre": "HUAMBOYA"
+          },
+          {
+            "codigo": "140751",
+            "nombre": "CHIGUAZA"
+          }
+        ]
+      },
+      "8": {
+        "codigo": "8",
+        "nombre": "SAN JUAN BOSCO",
+        "parroquias": [
+          {
+            "codigo": "140850",
+            "nombre": "SAN JUAN BOSCO"
+          },
+          {
+            "codigo": "140851",
+            "nombre": "PAN DE AZÚCAR"
+          },
+          {
+            "codigo": "140852",
+            "nombre": "SAN CARLOS DE LIMÓN"
+          },
+          {
+            "codigo": "140853",
+            "nombre": "SAN JACINTO DE WAKAMBEIS"
+          },
+          {
+            "codigo": "140854",
+            "nombre": "SANTIAGO DE PANANZA"
+          }
+        ]
+      },
+      "9": {
+        "codigo": "9",
+        "nombre": "TAISHA",
+        "parroquias": [
+          {
+            "codigo": "140950",
+            "nombre": "TAISHA"
+          },
+          {
+            "codigo": "140951",
+            "nombre": "HUASAGA"
+          },
+          {
+            "codigo": "140952",
+            "nombre": "MACUMA"
+          },
+          {
+            "codigo": "140953",
+            "nombre": "TUUTINENTSA"
+          },
+          {
+            "codigo": "140954",
+            "nombre": "PUMPUENTSA"
+          }
+        ]
+      },
+      "10": {
+        "codigo": "10",
+        "nombre": "LOGROÑO",
+        "parroquias": [
+          {
+            "codigo": "141050",
+            "nombre": "LOGROÑO"
+          },
+          {
+            "codigo": "141051",
+            "nombre": "YAUPI"
+          },
+          {
+            "codigo": "141052",
+            "nombre": "SHIMPIS"
+          }
+        ]
+      },
+      "11": {
+        "codigo": "11",
+        "nombre": "PABLO SEXTO",
+        "parroquias": [
+          {
+            "codigo": "141150",
+            "nombre": "PABLO SEXTO"
+          }
+        ]
+      },
+      "12": {
+        "codigo": "12",
+        "nombre": "TIWINTZA",
+        "parroquias": [
+          {
+            "codigo": "141250",
+            "nombre": "SANTIAGO"
+          },
+          {
+            "codigo": "141251",
+            "nombre": "SAN JOSÉ DE MORONA"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "15",
+    "nombre": "NAPO",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "TENA",
+        "parroquias": [
+          {
+            "codigo": "150150",
+            "nombre": "TENA"
+          },
+          {
+            "codigo": "150151",
+            "nombre": "AHUANO"
+          },
+          {
+            "codigo": "150153",
+            "nombre": "CHONTAPUNTA"
+          },
+          {
+            "codigo": "150154",
+            "nombre": "PANO"
+          },
+          {
+            "codigo": "150155",
+            "nombre": "PUERTO MISAHUALLÍ"
+          },
+          {
+            "codigo": "150156",
+            "nombre": "PUERTO NAPO"
+          },
+          {
+            "codigo": "150157",
+            "nombre": "TÁLAG"
+          },
+          {
+            "codigo": "150158",
+            "nombre": "SAN JUAN DE MUYUNA"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "ARCHIDONA",
+        "parroquias": [
+          {
+            "codigo": "150350",
+            "nombre": "ARCHIDONA"
+          },
+          {
+            "codigo": "150352",
+            "nombre": "COTUNDO"
+          },
+          {
+            "codigo": "150354",
+            "nombre": "SAN PABLO DE USHPAYACU"
+          },
+          {
+            "codigo": "150356",
+            "nombre": "HATUN SUMAKU"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "EL CHACO",
+        "parroquias": [
+          {
+            "codigo": "150450",
+            "nombre": "EL CHACO"
+          },
+          {
+            "codigo": "150451",
+            "nombre": "GONZALO DÍAZ DE PINEDA"
+          },
+          {
+            "codigo": "150452",
+            "nombre": "LINARES"
+          },
+          {
+            "codigo": "150453",
+            "nombre": "OYACACHI"
+          },
+          {
+            "codigo": "150454",
+            "nombre": "SANTA ROSA"
+          },
+          {
+            "codigo": "150455",
+            "nombre": "SARDINAS"
+          }
+        ]
+      },
+      "7": {
+        "codigo": "7",
+        "nombre": "QUIJOS",
+        "parroquias": [
+          {
+            "codigo": "150750",
+            "nombre": "BAEZA"
+          },
+          {
+            "codigo": "150751",
+            "nombre": "COSANGA"
+          },
+          {
+            "codigo": "150752",
+            "nombre": "CUYUJA"
+          },
+          {
+            "codigo": "150753",
+            "nombre": "PAPALLACTA"
+          },
+          {
+            "codigo": "150754",
+            "nombre": "SAN FRANCISCO DE BORJA"
+          },
+          {
+            "codigo": "150756",
+            "nombre": "SUMACO"
+          }
+        ]
+      },
+      "9": {
+        "codigo": "9",
+        "nombre": "CARLOS JULIO AROSEMENA TOLA",
+        "parroquias": [
+          {
+            "codigo": "150950",
+            "nombre": "CARLOS JULIO AROSEMENA TOLA"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "22",
+    "nombre": "ORELLANA",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "FRANCISCO DE ORELLANA",
+        "parroquias": [
+          {
+            "codigo": "220150",
+            "nombre": "EL COCA (PUERTO FRANCISCO DE ORELLANA)"
+          },
+          {
+            "codigo": "220151",
+            "nombre": "DAYUMA"
+          },
+          {
+            "codigo": "220152",
+            "nombre": "TARACOA"
+          },
+          {
+            "codigo": "220153",
+            "nombre": "ALEJANDRO LABAKA"
+          },
+          {
+            "codigo": "220154",
+            "nombre": "EL DORADO"
+          },
+          {
+            "codigo": "220155",
+            "nombre": "EL EDÉN"
+          },
+          {
+            "codigo": "220156",
+            "nombre": "GARCÍA MORENO"
+          },
+          {
+            "codigo": "220157",
+            "nombre": "INÉS ARANGO"
+          },
+          {
+            "codigo": "220158",
+            "nombre": "LA BELLEZA"
+          },
+          {
+            "codigo": "220159",
+            "nombre": "NUEVO PARAÍSO"
+          },
+          {
+            "codigo": "220160",
+            "nombre": "SAN JOSÉ DE GUAYUSA"
+          },
+          {
+            "codigo": "220161",
+            "nombre": "SAN LUIS DE ARMENIA"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "AGUARICO",
+        "parroquias": [
+          {
+            "codigo": "220201",
+            "nombre": "NUEVO ROCAFUERTE"
+          },
+          {
+            "codigo": "220202",
+            "nombre": "TIPUTINI"
+          },
+          {
+            "codigo": "220250",
+            "nombre": "NUEVO ROCAFUERTE"
+          },
+          {
+            "codigo": "220251",
+            "nombre": "CAPITÁN AUGUSTO RIVADENEYRA"
+          },
+          {
+            "codigo": "220252",
+            "nombre": "CONONACO"
+          },
+          {
+            "codigo": "220253",
+            "nombre": "SANTA MARÍA DE HUIRIRIMA"
+          },
+          {
+            "codigo": "220255",
+            "nombre": "YASUNÍ"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "LA JOYA DE LOS SACHAS",
+        "parroquias": [
+          {
+            "codigo": "220350",
+            "nombre": "LA JOYA DE LOS SACHAS"
+          },
+          {
+            "codigo": "220351",
+            "nombre": "ENOKANQUI"
+          },
+          {
+            "codigo": "220352",
+            "nombre": "POMPEYA"
+          },
+          {
+            "codigo": "220353",
+            "nombre": "SAN CARLOS"
+          },
+          {
+            "codigo": "220354",
+            "nombre": "SAN SEBASTIÁN DEL COCA"
+          },
+          {
+            "codigo": "220355",
+            "nombre": "LAGO SAN PEDRO"
+          },
+          {
+            "codigo": "220356",
+            "nombre": "RUMIPAMBA"
+          },
+          {
+            "codigo": "220357",
+            "nombre": "TRES DE NOVIEMBRE"
+          },
+          {
+            "codigo": "220358",
+            "nombre": "UNIÓN MILAGREÑA"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "LORETO",
+        "parroquias": [
+          {
+            "codigo": "220450",
+            "nombre": "LORETO"
+          },
+          {
+            "codigo": "220451",
+            "nombre": "ÁVILA"
+          },
+          {
+            "codigo": "220452",
+            "nombre": "PUERTO MURIALDO"
+          },
+          {
+            "codigo": "220453",
+            "nombre": "SAN JOSÉ DE PAYAMINO"
+          },
+          {
+            "codigo": "220454",
+            "nombre": "SAN JOSÉ DE DAHUANO"
+          },
+          {
+            "codigo": "220455",
+            "nombre": "SAN VICENTE DE HUATICOCHA"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "16",
+    "nombre": "PASTAZA",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "PASTAZA",
+        "parroquias": [
+          {
+            "codigo": "160150",
+            "nombre": "PUYO"
+          },
+          {
+            "codigo": "160152",
+            "nombre": "CANELOS"
+          },
+          {
+            "codigo": "160154",
+            "nombre": "DIEZ DE AGOSTO"
+          },
+          {
+            "codigo": "160155",
+            "nombre": "FÁTIMA"
+          },
+          {
+            "codigo": "160156",
+            "nombre": "MONTALVO"
+          },
+          {
+            "codigo": "160157",
+            "nombre": "POMONA"
+          },
+          {
+            "codigo": "160158",
+            "nombre": "RÍO CORRIENTES"
+          },
+          {
+            "codigo": "160159",
+            "nombre": "RÍO TIGRE"
+          },
+          {
+            "codigo": "160161",
+            "nombre": "SARAYACU"
+          },
+          {
+            "codigo": "160162",
+            "nombre": "SIMÓN BOLÍVAR"
+          },
+          {
+            "codigo": "160163",
+            "nombre": "TARQUI"
+          },
+          {
+            "codigo": "160164",
+            "nombre": "TENIENTE HUGO ORTIZ"
+          },
+          {
+            "codigo": "160165",
+            "nombre": "VERACRUZ"
+          },
+          {
+            "codigo": "160166",
+            "nombre": "EL TRIUNFO"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "MERA",
+        "parroquias": [
+          {
+            "codigo": "160250",
+            "nombre": "MERA"
+          },
+          {
+            "codigo": "160251",
+            "nombre": "MADRE TIERRA"
+          },
+          {
+            "codigo": "160252",
+            "nombre": "SHELL"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "SANTA CLARA",
+        "parroquias": [
+          {
+            "codigo": "160350",
+            "nombre": "SANTA CLARA"
+          },
+          {
+            "codigo": "160351",
+            "nombre": "SAN JOSÉ"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "ARAJUNO",
+        "parroquias": [
+          {
+            "codigo": "160450",
+            "nombre": "ARAJUNO"
+          },
+          {
+            "codigo": "160451",
+            "nombre": "CURARAY"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "17",
+    "nombre": "PICHINCHA",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "DISTRITO METROPOLITANO DE QUITO",
+        "parroquias": [
+          {
+            "codigo": "170101",
+            "nombre": "BELISARIO QUEVEDO"
+          },
+          {
+            "codigo": "170102",
+            "nombre": "CARCELÉN"
+          },
+          {
+            "codigo": "170103",
+            "nombre": "CENTRO HISTÓRICO"
+          },
+          {
+            "codigo": "170104",
+            "nombre": "COCHAPAMBA"
+          },
+          {
+            "codigo": "170105",
+            "nombre": "COMITÉ DEL PUEBLO"
+          },
+          {
+            "codigo": "170106",
+            "nombre": "COTOCOLLAO"
+          },
+          {
+            "codigo": "170107",
+            "nombre": "CHILIBULO"
+          },
+          {
+            "codigo": "170108",
+            "nombre": "CHILLOGALLO"
+          },
+          {
+            "codigo": "170109",
+            "nombre": "CHIMBACALLE"
+          },
+          {
+            "codigo": "170110",
+            "nombre": "EL CONDADO"
+          },
+          {
+            "codigo": "170111",
+            "nombre": "GUAMANÍ"
+          },
+          {
+            "codigo": "170112",
+            "nombre": "IÑAQUITO"
+          },
+          {
+            "codigo": "170113",
+            "nombre": "ITCHIMBIA"
+          },
+          {
+            "codigo": "170114",
+            "nombre": "JIPIJAPA"
+          },
+          {
+            "codigo": "170115",
+            "nombre": "KENNEDY"
+          },
+          {
+            "codigo": "170116",
+            "nombre": "LA ARGELIA"
+          },
+          {
+            "codigo": "170117",
+            "nombre": "LA CONCEPCIÓN"
+          },
+          {
+            "codigo": "170118",
+            "nombre": "LA ECUATORIANA"
+          },
+          {
+            "codigo": "170119",
+            "nombre": "LA FERROVIARIA"
+          },
+          {
+            "codigo": "170120",
+            "nombre": "LA LIBERTAD"
+          },
+          {
+            "codigo": "170121",
+            "nombre": "LA MAGDALENA"
+          },
+          {
+            "codigo": "170122",
+            "nombre": "LA MENA"
+          },
+          {
+            "codigo": "170123",
+            "nombre": "MARISCAL SUCRE"
+          },
+          {
+            "codigo": "170124",
+            "nombre": "PONCEANO"
+          },
+          {
+            "codigo": "170125",
+            "nombre": "PUENGASÍ"
+          },
+          {
+            "codigo": "170126",
+            "nombre": "QUITUMBE"
+          },
+          {
+            "codigo": "170127",
+            "nombre": "RUMIPAMBA"
+          },
+          {
+            "codigo": "170128",
+            "nombre": "SAN BARTOLO"
+          },
+          {
+            "codigo": "170129",
+            "nombre": "SAN ISIDRO DEL INCA"
+          },
+          {
+            "codigo": "170130",
+            "nombre": "SAN JUAN"
+          },
+          {
+            "codigo": "170131",
+            "nombre": "SOLANDA"
+          },
+          {
+            "codigo": "170132",
+            "nombre": "TURUBAMBA"
+          },
+          {
+            "codigo": "170150",
+            "nombre": "QUITO"
+          },
+          {
+            "codigo": "170151",
+            "nombre": "ALANGASÍ"
+          },
+          {
+            "codigo": "170152",
+            "nombre": "AMAGUAÑA"
+          },
+          {
+            "codigo": "170153",
+            "nombre": "ATAHUALPA"
+          },
+          {
+            "codigo": "170154",
+            "nombre": "CALACALÍ"
+          },
+          {
+            "codigo": "170155",
+            "nombre": "CALDERÓN"
+          },
+          {
+            "codigo": "170156",
+            "nombre": "CONOCOTO"
+          },
+          {
+            "codigo": "170157",
+            "nombre": "CUMBAYÁ"
+          },
+          {
+            "codigo": "170158",
+            "nombre": "CHAVEZPAMBA"
+          },
+          {
+            "codigo": "170159",
+            "nombre": "CHECA"
+          },
+          {
+            "codigo": "170160",
+            "nombre": "EL QUINCHE"
+          },
+          {
+            "codigo": "170161",
+            "nombre": "GUALEA"
+          },
+          {
+            "codigo": "170162",
+            "nombre": "GUANGOPOLO"
+          },
+          {
+            "codigo": "170163",
+            "nombre": "GUAYLLABAMBA"
+          },
+          {
+            "codigo": "170164",
+            "nombre": "LA MERCED"
+          },
+          {
+            "codigo": "170165",
+            "nombre": "LLANO CHICO"
+          },
+          {
+            "codigo": "170166",
+            "nombre": "LLOA"
+          },
+          {
+            "codigo": "170168",
+            "nombre": "NANEGAL"
+          },
+          {
+            "codigo": "170169",
+            "nombre": "NANEGALITO"
+          },
+          {
+            "codigo": "170170",
+            "nombre": "NAYÓN"
+          },
+          {
+            "codigo": "170171",
+            "nombre": "NONO"
+          },
+          {
+            "codigo": "170172",
+            "nombre": "PACTO"
+          },
+          {
+            "codigo": "170174",
+            "nombre": "PERUCHO"
+          },
+          {
+            "codigo": "170175",
+            "nombre": "PIFO"
+          },
+          {
+            "codigo": "170176",
+            "nombre": "PÍNTAG"
+          },
+          {
+            "codigo": "170177",
+            "nombre": "POMASQUI"
+          },
+          {
+            "codigo": "170178",
+            "nombre": "PUÉLLARO"
+          },
+          {
+            "codigo": "170179",
+            "nombre": "PUEMBO"
+          },
+          {
+            "codigo": "170180",
+            "nombre": "SAN ANTONIO"
+          },
+          {
+            "codigo": "170181",
+            "nombre": "SAN JOSÉ DE MINAS"
+          },
+          {
+            "codigo": "170183",
+            "nombre": "TABABELA"
+          },
+          {
+            "codigo": "170184",
+            "nombre": "TUMBACO"
+          },
+          {
+            "codigo": "170185",
+            "nombre": "YARUQUÍ"
+          },
+          {
+            "codigo": "170186",
+            "nombre": "ZÁMBIZA"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "CAYAMBE",
+        "parroquias": [
+          {
+            "codigo": "170202",
+            "nombre": "CAYAMBE"
+          },
+          {
+            "codigo": "170203",
+            "nombre": "JUAN MONTALVO"
+          },
+          {
+            "codigo": "170250",
+            "nombre": "CAYAMBE"
+          },
+          {
+            "codigo": "170251",
+            "nombre": "ASCÁZUBI"
+          },
+          {
+            "codigo": "170252",
+            "nombre": "CANGAHUA"
+          },
+          {
+            "codigo": "170253",
+            "nombre": "OLMEDO"
+          },
+          {
+            "codigo": "170254",
+            "nombre": "OTÓN"
+          },
+          {
+            "codigo": "170255",
+            "nombre": "SANTA ROSA DE CUZUBAMBA"
+          },
+          {
+            "codigo": "170256",
+            "nombre": "SAN JOSÉ DE AYORA"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "MEJÍA",
+        "parroquias": [
+          {
+            "codigo": "170350",
+            "nombre": "MACHACHI"
+          },
+          {
+            "codigo": "170351",
+            "nombre": "ALOAG"
+          },
+          {
+            "codigo": "170352",
+            "nombre": "ALOASÍ"
+          },
+          {
+            "codigo": "170353",
+            "nombre": "CUTUGLAHUA"
+          },
+          {
+            "codigo": "170354",
+            "nombre": "EL CHAUPI"
+          },
+          {
+            "codigo": "170355",
+            "nombre": "MANUEL CORNEJO ASTORGA"
+          },
+          {
+            "codigo": "170356",
+            "nombre": "TAMBILLO"
+          },
+          {
+            "codigo": "170357",
+            "nombre": "UYUMBICHO"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "PEDRO MONCAYO",
+        "parroquias": [
+          {
+            "codigo": "170450",
+            "nombre": "TABACUNDO"
+          },
+          {
+            "codigo": "170451",
+            "nombre": "LA ESPERANZA"
+          },
+          {
+            "codigo": "170452",
+            "nombre": "MALCHINGUÍ"
+          },
+          {
+            "codigo": "170453",
+            "nombre": "TOCACHI"
+          },
+          {
+            "codigo": "170454",
+            "nombre": "TUPIGACHI"
+          }
+        ]
+      },
+      "5": {
+        "codigo": "5",
+        "nombre": "RUMIÑAHUI",
+        "parroquias": [
+          {
+            "codigo": "170501",
+            "nombre": "SANGOLQUÍ"
+          },
+          {
+            "codigo": "170502",
+            "nombre": "SAN PEDRO DE TABOADA"
+          },
+          {
+            "codigo": "170503",
+            "nombre": "SAN RAFAEL"
+          },
+          {
+            "codigo": "170504",
+            "nombre": "FAJARDO"
+          },
+          {
+            "codigo": "170550",
+            "nombre": "SANGOLQUÍ"
+          },
+          {
+            "codigo": "170551",
+            "nombre": "COTOGCHOA"
+          },
+          {
+            "codigo": "170552",
+            "nombre": "SANGOLQUÍ"
+          }
+        ]
+      },
+      "7": {
+        "codigo": "7",
+        "nombre": "SAN MIGUEL DE LOS BANCOS",
+        "parroquias": [
+          {
+            "codigo": "170750",
+            "nombre": "SAN MIGUEL DE LOS BANCOS"
+          },
+          {
+            "codigo": "170751",
+            "nombre": "MINDO"
+          }
+        ]
+      },
+      "8": {
+        "codigo": "8",
+        "nombre": "PEDRO VICENTE MALDONADO",
+        "parroquias": [
+          {
+            "codigo": "170850",
+            "nombre": "PEDRO VICENTE MALDONADO"
+          }
+        ]
+      },
+      "9": {
+        "codigo": "9",
+        "nombre": "PUERTO QUITO",
+        "parroquias": [
+          {
+            "codigo": "170950",
+            "nombre": "PUERTO QUITO"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "24",
+    "nombre": "SANTA ELENA",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "SANTA ELENA",
+        "parroquias": [
+          {
+            "codigo": "240101",
+            "nombre": "BALLENITA"
+          },
+          {
+            "codigo": "240102",
+            "nombre": "SANTA ELENA"
+          },
+          {
+            "codigo": "240150",
+            "nombre": "SANTA ELENA"
+          },
+          {
+            "codigo": "240151",
+            "nombre": "ATAHUALPA"
+          },
+          {
+            "codigo": "240152",
+            "nombre": "COLONCHE"
+          },
+          {
+            "codigo": "240153",
+            "nombre": "CHANDUY"
+          },
+          {
+            "codigo": "240154",
+            "nombre": "MANGLARALTO"
+          },
+          {
+            "codigo": "240155",
+            "nombre": "SIMÓN BOLÍVAR"
+          },
+          {
+            "codigo": "240156",
+            "nombre": "SAN JOSÉ DE ANCÓN"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "LA LIBERTAD",
+        "parroquias": [
+          {
+            "codigo": "240250",
+            "nombre": "LA LIBERTAD"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "SALINAS",
+        "parroquias": [
+          {
+            "codigo": "240301",
+            "nombre": "CARLOS ESPINOZA LARREA"
+          },
+          {
+            "codigo": "240302",
+            "nombre": "GENERAL ALBERTO ENRÍQUEZ GALLO"
+          },
+          {
+            "codigo": "240303",
+            "nombre": "VICENTE  ROCAFUERTE"
+          },
+          {
+            "codigo": "240304",
+            "nombre": "SANTA ROSA"
+          },
+          {
+            "codigo": "240350",
+            "nombre": "SALINAS"
+          },
+          {
+            "codigo": "240351",
+            "nombre": "ANCONCITO"
+          },
+          {
+            "codigo": "240352",
+            "nombre": "JOSÉ LUIS TAMAYO"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "23",
+    "nombre": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "SANTO DOMINGO",
+        "parroquias": [
+          {
+            "codigo": "230101",
+            "nombre": "ABRAHAM CALAZACÓN"
+          },
+          {
+            "codigo": "230102",
+            "nombre": "BOMBOLÍ"
+          },
+          {
+            "codigo": "230103",
+            "nombre": "CHIGUILPE"
+          },
+          {
+            "codigo": "230104",
+            "nombre": "RÍO TOACHI"
+          },
+          {
+            "codigo": "230105",
+            "nombre": "RÍO VERDE"
+          },
+          {
+            "codigo": "230107",
+            "nombre": "ZARACAY"
+          },
+          {
+            "codigo": "230150",
+            "nombre": "SANTO DOMINGO DE LOS COLORADOS"
+          },
+          {
+            "codigo": "230151",
+            "nombre": "ALLURIQUÍN"
+          },
+          {
+            "codigo": "230152",
+            "nombre": "PUERTO LIMÓN"
+          },
+          {
+            "codigo": "230153",
+            "nombre": "LUZ DE AMÉRICA"
+          },
+          {
+            "codigo": "230154",
+            "nombre": "SAN JACINTO DEL BÚA"
+          },
+          {
+            "codigo": "230155",
+            "nombre": "VALLE HERMOSO"
+          },
+          {
+            "codigo": "230156",
+            "nombre": "EL ESFUERZO"
+          },
+          {
+            "codigo": "230157",
+            "nombre": "SANTA MARÍA DEL TOACHI"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "LA CONCORDIA",
+        "parroquias": [
+          {
+            "codigo": "230250",
+            "nombre": "LA CONCORDIA"
+          },
+          {
+            "codigo": "230251",
+            "nombre": "MONTERREY"
+          },
+          {
+            "codigo": "230252",
+            "nombre": "LA VILLEGAS"
+          },
+          {
+            "codigo": "230253",
+            "nombre": "PLAN PILOTO"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "21",
+    "nombre": "SUCUMBÍOS",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "LAGO AGRIO",
+        "parroquias": [
+          {
+            "codigo": "210150",
+            "nombre": "NUEVA LOJA"
+          },
+          {
+            "codigo": "210152",
+            "nombre": "DURENO"
+          },
+          {
+            "codigo": "210153",
+            "nombre": "GENERAL FARFÁN"
+          },
+          {
+            "codigo": "210155",
+            "nombre": "EL ENO"
+          },
+          {
+            "codigo": "210156",
+            "nombre": "PACAYACU"
+          },
+          {
+            "codigo": "210157",
+            "nombre": "JAMBELÍ"
+          },
+          {
+            "codigo": "210158",
+            "nombre": "SANTA CECILIA"
+          },
+          {
+            "codigo": "210160",
+            "nombre": "10 DE AGOSTO"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "GONZALO PIZARRO",
+        "parroquias": [
+          {
+            "codigo": "210250",
+            "nombre": "LUMBAQUÍ"
+          },
+          {
+            "codigo": "210251",
+            "nombre": "EL REVENTADOR"
+          },
+          {
+            "codigo": "210252",
+            "nombre": "GONZALO PIZARRO"
+          },
+          {
+            "codigo": "210254",
+            "nombre": "PUERTO LIBRE"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "PUTUMAYO",
+        "parroquias": [
+          {
+            "codigo": "210350",
+            "nombre": "PUERTO EL CARMEN DE PUTUMAYO"
+          },
+          {
+            "codigo": "210351",
+            "nombre": "PALMA ROJA"
+          },
+          {
+            "codigo": "210352",
+            "nombre": "PUERTO BOLÍVAR"
+          },
+          {
+            "codigo": "210353",
+            "nombre": "PUERTO RODRÍGUEZ"
+          },
+          {
+            "codigo": "210354",
+            "nombre": "SANTA ELENA"
+          },
+          {
+            "codigo": "210355",
+            "nombre": "SANSAHUARI"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "SHUSHUFINDI",
+        "parroquias": [
+          {
+            "codigo": "210450",
+            "nombre": "SHUSHUFINDI"
+          },
+          {
+            "codigo": "210451",
+            "nombre": "LIMONCOCHA"
+          },
+          {
+            "codigo": "210452",
+            "nombre": "PAÑACOCHA"
+          },
+          {
+            "codigo": "210453",
+            "nombre": "SAN ROQUE"
+          },
+          {
+            "codigo": "210454",
+            "nombre": "SAN PEDRO DE LOS COFÁNES"
+          },
+          {
+            "codigo": "210455",
+            "nombre": "SIETE DE JULIO"
+          }
+        ]
+      },
+      "5": {
+        "codigo": "5",
+        "nombre": "SUCUMBÍOS",
+        "parroquias": [
+          {
+            "codigo": "210550",
+            "nombre": "LA BONITA"
+          },
+          {
+            "codigo": "210551",
+            "nombre": "EL PLAYÓN DE SAN FRANCISCO"
+          },
+          {
+            "codigo": "210552",
+            "nombre": "LA SOFÍA"
+          },
+          {
+            "codigo": "210553",
+            "nombre": "ROSA FLORIDA"
+          },
+          {
+            "codigo": "210554",
+            "nombre": "SANTA BÁRBARA"
+          }
+        ]
+      },
+      "6": {
+        "codigo": "6",
+        "nombre": "CASCALES",
+        "parroquias": [
+          {
+            "codigo": "210650",
+            "nombre": "EL DORADO DE CASCALES"
+          },
+          {
+            "codigo": "210651",
+            "nombre": "SANTA ROSA DE SUCUMBÍOS"
+          },
+          {
+            "codigo": "210652",
+            "nombre": "SEVILLA"
+          },
+          {
+            "codigo": "210653",
+            "nombre": "NUEVA TRONCAL"
+          }
+        ]
+      },
+      "7": {
+        "codigo": "7",
+        "nombre": "CUYABENO",
+        "parroquias": [
+          {
+            "codigo": "210750",
+            "nombre": "TARAPOA"
+          },
+          {
+            "codigo": "210751",
+            "nombre": "CUYABENO"
+          },
+          {
+            "codigo": "210752",
+            "nombre": "AGUAS NEGRAS"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "18",
+    "nombre": "TUNGURAHUA",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "AMBATO",
+        "parroquias": [
+          {
+            "codigo": "180101",
+            "nombre": "ATOCHA – FICOA"
+          },
+          {
+            "codigo": "180102",
+            "nombre": "CELIANO MONGE"
+          },
+          {
+            "codigo": "180103",
+            "nombre": "HUACHI CHICO"
+          },
+          {
+            "codigo": "180104",
+            "nombre": "HUACHI LORETO"
+          },
+          {
+            "codigo": "180105",
+            "nombre": "LA MERCED"
+          },
+          {
+            "codigo": "180106",
+            "nombre": "LA PENÍNSULA"
+          },
+          {
+            "codigo": "180107",
+            "nombre": "MATRIZ"
+          },
+          {
+            "codigo": "180108",
+            "nombre": "PISHILATA"
+          },
+          {
+            "codigo": "180109",
+            "nombre": "SAN FRANCISCO"
+          },
+          {
+            "codigo": "180150",
+            "nombre": "AMBATO"
+          },
+          {
+            "codigo": "180151",
+            "nombre": "AMBATILLO"
+          },
+          {
+            "codigo": "180152",
+            "nombre": "ATAHUALPA"
+          },
+          {
+            "codigo": "180153",
+            "nombre": "AUGUSTO N. MARTÍNEZ"
+          },
+          {
+            "codigo": "180154",
+            "nombre": "CONSTANTINO FERNÁNDEZ"
+          },
+          {
+            "codigo": "180155",
+            "nombre": "HUACHI GRANDE"
+          },
+          {
+            "codigo": "180156",
+            "nombre": "IZAMBA"
+          },
+          {
+            "codigo": "180157",
+            "nombre": "JUAN BENIGNO VELA"
+          },
+          {
+            "codigo": "180158",
+            "nombre": "MONTALVO"
+          },
+          {
+            "codigo": "180159",
+            "nombre": "PASA"
+          },
+          {
+            "codigo": "180160",
+            "nombre": "PICAIHUA"
+          },
+          {
+            "codigo": "180161",
+            "nombre": "PILAGÜÍN"
+          },
+          {
+            "codigo": "180162",
+            "nombre": "QUISAPINCHA"
+          },
+          {
+            "codigo": "180163",
+            "nombre": "SAN BARTOLOMÉ DE PINLLO"
+          },
+          {
+            "codigo": "180164",
+            "nombre": "SAN FERNANDO"
+          },
+          {
+            "codigo": "180165",
+            "nombre": "SANTA ROSA"
+          },
+          {
+            "codigo": "180166",
+            "nombre": "TOTORAS"
+          },
+          {
+            "codigo": "180167",
+            "nombre": "CUNCHIBAMBA"
+          },
+          {
+            "codigo": "180168",
+            "nombre": "UNAMUNCHO"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "BAÑOS DE AGUA SANTA",
+        "parroquias": [
+          {
+            "codigo": "180250",
+            "nombre": "BAÑOS"
+          },
+          {
+            "codigo": "180251",
+            "nombre": "LLIGUA"
+          },
+          {
+            "codigo": "180252",
+            "nombre": "RÍO NEGRO"
+          },
+          {
+            "codigo": "180253",
+            "nombre": "RÍO VERDE"
+          },
+          {
+            "codigo": "180254",
+            "nombre": "ULBA"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "CEVALLOS",
+        "parroquias": [
+          {
+            "codigo": "180350",
+            "nombre": "CEVALLOS"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "MOCHA",
+        "parroquias": [
+          {
+            "codigo": "180450",
+            "nombre": "MOCHA"
+          },
+          {
+            "codigo": "180451",
+            "nombre": "PINGUILÍ"
+          }
+        ]
+      },
+      "5": {
+        "codigo": "5",
+        "nombre": "PATATE",
+        "parroquias": [
+          {
+            "codigo": "180550",
+            "nombre": "PATATE"
+          },
+          {
+            "codigo": "180551",
+            "nombre": "EL TRIUNFO"
+          },
+          {
+            "codigo": "180552",
+            "nombre": "LOS ANDES"
+          },
+          {
+            "codigo": "180553",
+            "nombre": "SUCRE"
+          }
+        ]
+      },
+      "6": {
+        "codigo": "6",
+        "nombre": "QUERO",
+        "parroquias": [
+          {
+            "codigo": "180650",
+            "nombre": "QUERO"
+          },
+          {
+            "codigo": "180651",
+            "nombre": "RUMIPAMBA"
+          },
+          {
+            "codigo": "180652",
+            "nombre": "YANAYACU-MOCHAPATA"
+          }
+        ]
+      },
+      "7": {
+        "codigo": "7",
+        "nombre": "SAN PEDRO DE PELILEO",
+        "parroquias": [
+          {
+            "codigo": "180701",
+            "nombre": "PELILEO"
+          },
+          {
+            "codigo": "180702",
+            "nombre": "PELILEO GRANDE"
+          },
+          {
+            "codigo": "180750",
+            "nombre": "PELILEO"
+          },
+          {
+            "codigo": "180751",
+            "nombre": "BENÍTEZ"
+          },
+          {
+            "codigo": "180752",
+            "nombre": "BOLÍVAR"
+          },
+          {
+            "codigo": "180753",
+            "nombre": "COTALÓ"
+          },
+          {
+            "codigo": "180754",
+            "nombre": "CHIQUICHA"
+          },
+          {
+            "codigo": "180755",
+            "nombre": "EL ROSARIO"
+          },
+          {
+            "codigo": "180756",
+            "nombre": "GARCÍA MORENO"
+          },
+          {
+            "codigo": "180757",
+            "nombre": "GUAMBALÓ"
+          },
+          {
+            "codigo": "180758",
+            "nombre": "SALASACA"
+          }
+        ]
+      },
+      "8": {
+        "codigo": "8",
+        "nombre": "SANTIAGO DE PÍLLARO",
+        "parroquias": [
+          {
+            "codigo": "180801",
+            "nombre": "CIUDAD NUEVA"
+          },
+          {
+            "codigo": "180802",
+            "nombre": "PÍLLARO"
+          },
+          {
+            "codigo": "180850",
+            "nombre": "PÍLLARO"
+          },
+          {
+            "codigo": "180851",
+            "nombre": "BAQUERIZO MORENO"
+          },
+          {
+            "codigo": "180852",
+            "nombre": "EMILIO MARÍA TERÁN"
+          },
+          {
+            "codigo": "180853",
+            "nombre": "MARCOS ESPINEL"
+          },
+          {
+            "codigo": "180854",
+            "nombre": "PRESIDENTE URBINA"
+          },
+          {
+            "codigo": "180855",
+            "nombre": "SAN ANDRÉS"
+          },
+          {
+            "codigo": "180856",
+            "nombre": "SAN JOSÉ DE POALÓ"
+          },
+          {
+            "codigo": "180857",
+            "nombre": "SAN MIGUELITO"
+          }
+        ]
+      },
+      "9": {
+        "codigo": "9",
+        "nombre": "TISALEO",
+        "parroquias": [
+          {
+            "codigo": "180950",
+            "nombre": "TISALEO"
+          },
+          {
+            "codigo": "180951",
+            "nombre": "QUINCHICOTO"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "codigo": "19",
+    "nombre": "ZAMORA CHINCHIPE",
+    "cantones": {
+      "1": {
+        "codigo": "1",
+        "nombre": "ZAMORA",
+        "parroquias": [
+          {
+            "codigo": "190101",
+            "nombre": "EL LIMÓN"
+          },
+          {
+            "codigo": "190102",
+            "nombre": "ZAMORA"
+          },
+          {
+            "codigo": "190150",
+            "nombre": "ZAMORA"
+          },
+          {
+            "codigo": "190151",
+            "nombre": "CUMBARATZA"
+          },
+          {
+            "codigo": "190152",
+            "nombre": "GUADALUPE"
+          },
+          {
+            "codigo": "190153",
+            "nombre": "IMBANA"
+          },
+          {
+            "codigo": "190155",
+            "nombre": "SABANILLA"
+          },
+          {
+            "codigo": "190156",
+            "nombre": "TIMBARA"
+          },
+          {
+            "codigo": "190158",
+            "nombre": "SAN CARLOS DE LAS MINAS"
+          }
+        ]
+      },
+      "2": {
+        "codigo": "2",
+        "nombre": "CHINCHIPE",
+        "parroquias": [
+          {
+            "codigo": "190250",
+            "nombre": "ZUMBA"
+          },
+          {
+            "codigo": "190251",
+            "nombre": "CHITO"
+          },
+          {
+            "codigo": "190252",
+            "nombre": "EL CHORRO"
+          },
+          {
+            "codigo": "190254",
+            "nombre": "LA CHONTA"
+          },
+          {
+            "codigo": "190256",
+            "nombre": "PUCAPAMBA"
+          },
+          {
+            "codigo": "190259",
+            "nombre": "SAN ANDRÉS"
+          }
+        ]
+      },
+      "3": {
+        "codigo": "3",
+        "nombre": "NANGARITZA",
+        "parroquias": [
+          {
+            "codigo": "190350",
+            "nombre": "GUAYZIMI"
+          },
+          {
+            "codigo": "190351",
+            "nombre": "ZURMI"
+          },
+          {
+            "codigo": "190352",
+            "nombre": "NUEVO PARAÍSO"
+          },
+          {
+            "codigo": "190353",
+            "nombre": "NANKAIS"
+          }
+        ]
+      },
+      "4": {
+        "codigo": "4",
+        "nombre": "YACUAMBI",
+        "parroquias": [
+          {
+            "codigo": "190450",
+            "nombre": "28 DE MAYO"
+          },
+          {
+            "codigo": "190451",
+            "nombre": "LA PAZ"
+          },
+          {
+            "codigo": "190452",
+            "nombre": "TUTUPALI"
+          }
+        ]
+      },
+      "5": {
+        "codigo": "5",
+        "nombre": "YANTZAZA",
+        "parroquias": [
+          {
+            "codigo": "190550",
+            "nombre": "YANTZAZA"
+          },
+          {
+            "codigo": "190551",
+            "nombre": "CHICAÑA"
+          },
+          {
+            "codigo": "190553",
+            "nombre": "LOS ENCUENTROS"
+          }
+        ]
+      },
+      "6": {
+        "codigo": "6",
+        "nombre": "EL PANGUI",
+        "parroquias": [
+          {
+            "codigo": "190650",
+            "nombre": "EL PANGUI"
+          },
+          {
+            "codigo": "190651",
+            "nombre": "EL GUISME"
+          },
+          {
+            "codigo": "190652",
+            "nombre": "PACHICUTZA"
+          },
+          {
+            "codigo": "190653",
+            "nombre": "TUNDAYME"
+          }
+        ]
+      },
+      "7": {
+        "codigo": "7",
+        "nombre": "CENTINELA DEL CÓNDOR",
+        "parroquias": [
+          {
+            "codigo": "190750",
+            "nombre": "ZUMBI"
+          },
+          {
+            "codigo": "190752",
+            "nombre": "TRIUNFO DORADO"
+          },
+          {
+            "codigo": "190753",
+            "nombre": "PANGUINTZA"
+          }
+        ]
+      },
+      "8": {
+        "codigo": "8",
+        "nombre": "PALANDA",
+        "parroquias": [
+          {
+            "codigo": "190850",
+            "nombre": "PALANDA"
+          },
+          {
+            "codigo": "190851",
+            "nombre": "EL PORVENIR DEL CARMEN"
+          },
+          {
+            "codigo": "190852",
+            "nombre": "SAN FRANCISCO DEL VERGEL"
+          },
+          {
+            "codigo": "190853",
+            "nombre": "VALLADOLID"
+          },
+          {
+            "codigo": "190854",
+            "nombre": "LA CANELA"
+          }
+        ]
+      },
+      "9": {
+        "codigo": "9",
+        "nombre": "PAQUISHA",
+        "parroquias": [
+          {
+            "codigo": "190950",
+            "nombre": "PAQUISHA"
+          },
+          {
+            "codigo": "190951",
+            "nombre": "BELLAVISTA"
+          },
+          {
+            "codigo": "190952",
+            "nombre": "NUEVO QUITO"
+          }
+        ]
+      }
+    }
+  }
+]
