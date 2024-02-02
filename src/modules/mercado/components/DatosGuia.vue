@@ -79,43 +79,28 @@
               productos:[],
               datosJson: datosjs,
 
-              cantones: [],
               provincias: [],
+              cantones: [],
               parroquias: [],
+              datosProvincia:null,
+              datosCanton:null,
           }
       },
 
       methods:{
 
         actualizarCantones() {
-            // Filtrar la lista de cantones según la provincia seleccionada
-            const provinciaSeleccionada = this.datosJson.find(p => p.nombre === this.provincia);
-            this.cantones = provinciaSeleccionada?.cantones ? Object.values(provinciaSeleccionada.cantones) : [];
-            console.log('Prueba:', provinciaSeleccionada);
-
-            // Restablecer valores
-    
+            console.log('Provincia seleccionada:', this.provincia);
+            this.datosProvincia = this.datosJson.find(p => p.nombre === this.provincia);
+            this.cantones = this.datosProvincia?.cantones ? Object.values(this.datosProvincia.cantones) : [];
+            console.log('Prueba:', this.datosProvincia);
         },
 
         actualizarParroquias() {
             console.log('Cantón seleccionado:', this.canton);
-
-            const provinciaSeleccionada = this.datosJson.find(p => p.nombre === this.provincia);
-            const cantonSeleccionado = provinciaSeleccionada.cantones;
-            this.parroquias = cantonSeleccionado.nombre==this.canton;
-
-
-            //const cantonSeleccionado = provinciaSeleccionada?.cantones[this.canton];
-
-            console.log('Prueba:', provinciaSeleccionada);
-            console.log('Prueba:2', cantonSeleccionado);
-
-
-
-
-            console.log('Parroquias filtradas:', this.parroquias);
-
-            this.parroquia = '';
+            this.datosCanton = Object.values(this.datosProvincia.cantones).find(c => c.nombre === this.canton);     
+            this.parroquias = this.datosCanton?.parroquias ? Object.values(this.datosCanton.parroquias) : [];
+            console.log('Prueba 2:', this.datosCanton);
         },
 
         listaDatos() {
