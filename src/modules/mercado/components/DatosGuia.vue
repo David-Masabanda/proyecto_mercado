@@ -34,12 +34,58 @@
       </div>
 
       <div class="datos3">
+        <Button label="Agregar Producto" @click="visible = true"></Button>
+
+        <Dialog v-model:visible="visible" modal header="Agregar Producto" :style="{ width: '25rem' }">
+          <!-- Sección de búsqueda -->
+          <div>
+  
+            <div>
+              <div>
+                <InputText id="productSearch" v-model="productSearch"/>
+              </div>
+
+              <div>
+                <Button type="button" label="Buscar" @click="consultarProducto"></Button>
+              </div>
+
+            </div>
+
+          </div>
+
+          <!-- Sección de resultados de búsqueda -->
+          <!-- Sección de resultados de búsqueda -->
+          <div v-if="listaProductos.length > 0">
+            <label for="selectedProduct">Nombre</label>
+            <Dropdown id="selectedProduct" v-model="selectedProduct" :options="listaProductos" placeholder="Seleccionar" />
+          </div>
+
+          <!-- Sección de cantidad -->
+          <div v-if="selectedProduct">
+            <label for="quantity">Cantidad</label>
+            <InputText id="quantity" v-model="quantity" autocomplete="off" />
+          </div>
+
+          <!-- Sección de tipo de presentación -->
+          <div v-if="selectedProduct">
+            <label for="presentationType">Presentación</label>
+            <Dropdown v-model="selectedPresentation" :options="presentationOptions" placeholder="Seleccionar" />
+          </div>
+
+          <!-- Botones de acciones -->
+          <div>
+            <Button type="button" label="Cancelar" class="p-button-secondary" @click="visible = false"></Button>
+            <Button type="button" label="Guardar" class="p-button-primary" @click="guardarProducto"></Button>
+          </div>
+        </Dialog>
+
+
+
           <table class="tabla">
                   <thead>
                       <th>Producto</th>
                       <th>Cantidad</th>
                       <th>Presentacion</th>
-                      <th><button>Añadir</button></th>
                   </thead>
                   <tbody>
                       <tr v-for="producto in productos" :key="producto.id">
@@ -49,7 +95,7 @@
                       </tr>
                   </tbody>
   
-              </table>
+            </table>
       </div>
   
       <button>Guardar</button>
@@ -59,14 +105,18 @@
   <script>
   import moment from 'moment';
   import datosjs from '../store/datos.json' 
-
+  import usuarioService from "@/modules/utils/tokenUtils";
+  import obtenerProductosFachada from "../helpers/productoUtils.js";
 
   export default {
       data(){
           return{
+              visible: false,
+
               fecha:null,
               nombre:null,
               cedula:null,
+              usuario: null,
 
               destino:"Mercado Mayorista Quito",
               local:"HOR-22",
@@ -84,16 +134,75 @@
               parroquias: [],
               datosProvincia:null,
               datosCanton:null,
+
+              productSearch: "",
+              selectedProduct: "",
+              quantity: 1,
+              selectedPresentation: "",
+              presentationOptions: ["Libra", "Kilo"],
+              listaProductos: []
+
           }
       },
 
       methods:{
+
+        async consultarProducto() {
+          try {
+              const data = await obtenerProductosFachada(this.productSearch);
+              console.log(data);
+
+              // Limpiar la lista de productos
+              this.listaProductos = [];
+
+              // Agregar los nombres de los productos a la lista
+              data.forEach(producto => {
+                  this.listaProductos.push(producto.nombre);
+              });
+          } catch (error) {
+              console.error('Error al consultar productos:', error);
+          }
+        },
+
+        seleccionarProducto(productoSeleccionado) {
+          // Buscamos el producto seleccionado en los resultados originales
+          const producto = this.searchResults.find(producto => producto.nombre === productoSeleccionado);
+          if (producto) {
+            // Asignamos los detalles del producto seleccionado a los campos correspondientes
+            this.selectedResult = producto;
+            this.quantity = producto.cantidad; // Suponiendo que 'cantidad' es un campo del producto
+            this.selectedPresentation = producto.presentacion; // Suponiendo que 'presentacion' es un campo del producto
+          }
+        },
+
+        guardarProducto() {
+          // Agregar el nuevo producto a la lista
+          this.productos.push({
+            nombre: this.selectedProduct,
+            cantidad: this.quantity,
+            presentacion: this.selectedPresentation,
+          });
+
+          // Limpiar los campos después de guardar
+          this.selectedProduct = '';
+          this.quantity = '';
+          this.selectedPresentation = '';
+
+          // Cerrar el diálogo
+          this.visible = false;
+        },
+
+        guardarGuia(){
+
+        },
+
 
         actualizarCantones() {
             console.log('Provincia seleccionada:', this.provincia);
             this.datosProvincia = this.datosJson.find(p => p.nombre === this.provincia);
             this.cantones = this.datosProvincia?.cantones ? Object.values(this.datosProvincia.cantones) : [];
             console.log('Prueba:', this.datosProvincia);
+            this.parroquias=null;
         },
 
         actualizarParroquias() {
@@ -112,6 +221,11 @@
       mounted(){
           this.fecha= moment().format('YYYY-MM-DD HH:mm:ss');
           this.listaDatos(); 
+          this.usuario=usuarioService.getUsuario();
+          console.log(this.usuario);
+          this.cedula=this.usuario;
+          //this.nombre=this.usuario.noombres + this
+
       }
       
 }

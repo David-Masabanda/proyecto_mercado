@@ -37,6 +37,8 @@ export default {
                 const esperar=await verificarUsuario(data)
                 console.log("Login exitoso")
                 router.push('/inicio')
+                localStorage.setItem("token", esperar.jwt)  
+
             } catch (error) {
                 if (error.response && error.response.status === 403) {
                     this.mostrarAlertaError(this.errorMessage);                
