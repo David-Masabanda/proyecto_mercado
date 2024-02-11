@@ -39,21 +39,14 @@
         <Dialog v-model:visible="visible" modal header="Agregar Producto" :style="{ width: '25rem' }">
           <!-- Sección de búsqueda -->
           <div>
-  
-            <div>
               <div>
                 <InputText id="productSearch" v-model="productSearch"/>
               </div>
-
               <div>
                 <Button type="button" label="Buscar" @click="consultarProducto"></Button>
               </div>
-
-            </div>
-
           </div>
 
-          <!-- Sección de resultados de búsqueda -->
           <!-- Sección de resultados de búsqueda -->
           <div v-if="listaProductos.length > 0">
             <label for="selectedProduct">Nombre</label>
@@ -79,26 +72,14 @@
           </div>
         </Dialog>
 
-
-
-          <table class="tabla">
-                  <thead>
-                      <th>Producto</th>
-                      <th>Cantidad</th>
-                      <th>Presentacion</th>
-                  </thead>
-                  <tbody>
-                      <tr v-for="producto in productos" :key="producto.id">
-                          <td>{{ producto.nombre }}</td>
-                          <td>{{ producto.cantidad }}</td>
-                          <td>{{ producto.presentacion }}</td>
-                      </tr>
-                  </tbody>
-  
-            </table>
+            <DataTable :value="productosG" tableStyle="min-width: 50rem">
+              <Column field="nombre" header="Producto"></Column>
+              <Column field="cantidad" header="Cantidad"></Column>
+              <Column field="presentacion" header="Presentacion"></Column>
+          </DataTable>
       </div>
-  
-      <button>Guardar</button>
+
+      <button @click="guardarGuia">Guardar</button>
     </div>
   </template>
   
@@ -107,6 +88,7 @@
   import datosjs from '../store/datos.json' 
   import usuarioService from "@/modules/utils/tokenUtils";
   import obtenerProductosFachada from "../helpers/productoUtils.js";
+  import saveGuia from "../helpers/GuardarGuia.js"
 
   export default {
       data(){
@@ -126,7 +108,7 @@
               canton:"",
               provincia:"",
 
-              productos:[],
+              productosG:[],
               datosJson: datosjs,
 
               provincias: [],
@@ -137,7 +119,7 @@
 
               productSearch: "",
               selectedProduct: "",
-              quantity: 1,
+              quantity: '',
               selectedPresentation: "",
               presentationOptions: ["Libra", "Kilo"],
               listaProductos: []
@@ -177,7 +159,7 @@
 
         guardarProducto() {
           // Agregar el nuevo producto a la lista
-          this.productos.push({
+          this.productosG.push({
             nombre: this.selectedProduct,
             cantidad: this.quantity,
             presentacion: this.selectedPresentation,
@@ -190,9 +172,21 @@
 
           // Cerrar el diálogo
           this.visible = false;
+          this.productSearch='';
+          this.listaProductos='';
+
         },
 
-        guardarGuia(){
+        async guardarGuia(){
+          
+          const guia = {
+            //nombre: this.nombre,
+            cedula: this.cedula,
+            productos: this.productosG, 
+          };
+          await saveGuia(guia)
+
+          this.productosG=[];
 
         },
 

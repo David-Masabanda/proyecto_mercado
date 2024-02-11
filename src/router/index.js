@@ -22,6 +22,10 @@ const routes = [
   {
     path: '/guia',
     component: () => import( '../modules/mercado/pages/Guia.vue')
+  },
+  {
+    path: '/busquedaAD',
+    component: () => import( '../modules/mercado/pages/BusquedaAD.vue')
   }
 ]
 
