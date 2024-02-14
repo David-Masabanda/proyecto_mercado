@@ -5,13 +5,14 @@
     <img src="https://www.barcelo.com/guia-turismo/wp-content/uploads/2021/01/sevilla_mercados_pal.jpg" alt="">
     <router-link to="/login"> Regresar </router-link>
     <router-link to="/guia"> Nueva Guia </router-link>
-    <router-link to="/busquedaAD"> Buscar Guias </router-link>
+    <router-link to="/busquedaAD" v-if="userRole==ADMINISTRADOR"> Buscar Guias </router-link>
 
   </div>
 </template>
 
 <script>
-import router from '@/router';
+import * as jose from "jose";
+
 import { validarToken } from '../helpers/ValidarToken'
 
 export default {
@@ -19,12 +20,24 @@ export default {
     return {
 
       errorMensaje: null,
+      userRole:null
     }
   },
+  created(){
+    this.userRole = this.getUserRole();
+
+  },
   mounted() {
-    this.verificar()
+    //this.verificar()
   },
   methods: {
+    getUserRole() {
+      const token = localStorage.getItem('token'); // Suponiendo que el token está almacenado en el localStorage
+      // Decodificar el token y extraer el rol del usuario (puedes implementar tu lógica de decodificación aquí)
+      // Por ejemplo, si el token es JWT:
+      const decodedToken = jose.decodeJwt(token);
+      return decodedToken.role; // Devuelve el rol del usuario
+    },
     async verificar() {
       const token = localStorage.getItem('token');
       const valido=await validarToken(JSON.parse(token))

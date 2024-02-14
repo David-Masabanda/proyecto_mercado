@@ -1,12 +1,15 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
+import ToastService from 'primevue/toastservice';
 
 
 import 'primevue/resources/themes/lara-light-green/theme.css'
 
 import PrimeVue from 'primevue/config';
+import Toast from 'primevue/toast';
 import Dialog from 'primevue/dialog';
+
 import Button from 'primevue/button';
 import InputText from 'primevue/inputtext';
 import Dropdown from 'primevue/dropdown';
@@ -18,6 +21,8 @@ import Column from 'primevue/column';
 const app=createApp(App)
 
 app.use(PrimeVue);
+app.use(ToastService);
+app.component("Toast",Toast)
 app.component("Dialog",Dialog)
 app.component("Button",Button)
 app.component("InputText",InputText)

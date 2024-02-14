@@ -1,16 +1,31 @@
 import axios from "axios"
+import cedulaService  from "../../utils/tokenUtils";
+import { getApiUrl  } from "../../utils/apiUtil";
 
-export const obtenerProductosFachada = async (nombre) => {
-    console.log("AXIOS")
-    return await obtenerProductosAPI(nombre);
+const config = {
+    headers: {
+        Authorization: `Bearer ${JSON.parse(cedulaService.getToken()).jwt}`
+    }
+};
+export const obtenerProductosNombreFachada = async (nombre) => {
+    return await obtenerProductosNombreAPI(nombre);
 
 }
 
-const obtenerProductosAPI = async (nombre) => {
-    console.log("AXIOS 2")
-    const data = axios.get(`http://localhost:8080/API/v1.0/Mercado/productos/${nombre}`).then(r => r.data);
-    console.log(data);
+export const obtenerProductosFachada = async () => {
+    return await obtenerProductosAPI();
+
+}
+const obtenerProductosNombreAPI = async (nombre) => {
+    const url=getApiUrl("productos/")
+    const data = axios.get(url+nombre).then(r => r.data);
     return data;
 }
 
-export default obtenerProductosFachada;
+
+const obtenerProductosAPI = async () => {
+    const url=getApiUrl("productos")
+    const data = axios.get(url,config).then(r => r.data);
+    return data;
+}
+//export default obtenerProductosFachada;

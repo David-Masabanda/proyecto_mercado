@@ -8,6 +8,7 @@ class UsuarioService {
 
   getToken() {
     const tokenString = localStorage.getItem("token");
+    console.log(tokenString)
     if (tokenString !== null) {
       return tokenString;
     } else {
@@ -19,7 +20,6 @@ class UsuarioService {
     const token = this.getToken();
     if (token !== null) {
         const decodedToken = jose.decodeJwt(token, { complete: true });
-        console.log(decodedToken);
         return decodedToken.name;
     } else {
       return null;

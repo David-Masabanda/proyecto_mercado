@@ -1,18 +1,21 @@
 import axios from "axios"
 import { getApiUrl  } from "../../utils/apiUtil";
-
-
-export const obtenerProductosFachada = async (datosBuscar) => {
-    console.log(datosBuscar)
-    return await obtenerProductosAPI(datosBuscar);
+import cedulaService  from "../../utils/tokenUtils";
+const config = {
+    headers: {
+        Authorization: `Bearer ${JSON.parse(cedulaService.getToken()).jwt}`
+    }
+};
+export const obtenerProductosFechaFachada = async (datosBuscar) => {
+    return await obtenerProductosFechaAPI(datosBuscar);
 
 }
 
-const obtenerProductosAPI = async (datosBuscar) => {
+const obtenerProductosFechaAPI = async (datosBuscar) => {
     const url=getApiUrl("guias/buscarAD")
-    const data = axios.get(`http://localhost:8080/API/v1.0/Mercado/guias/buscarAD`,datosBuscar).then(r => r.data);
-    console.log(data);
+   
+    console.log(config)
+    const data = axios.post(url,datosBuscar,config).then(r => r.data);
     return data;
 }
 
-export default obtenerProductosFachada;
